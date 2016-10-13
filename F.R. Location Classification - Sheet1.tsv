@@ -1,0 +1,47 @@
+overall_ich_volume_excess	
+Location	Number of responses
+emg	0
+nde	30
+sci	3
+hyg	5
+crg	0
+slp	6
+eva	1
+hab	1
+exr	1
+gly	1
+co2	2
+cmd	0
+all	1
+	
+overall_ich_volume_deficit	
+Location	Number of responses
+emg	1
+nde	1
+sci	3
+hyg	0
+crg	1
+slp	23
+eva	0
+hab	11
+exr	1
+gly	23
+co2	0
+cmd	0
+all	0
+	
+overall_ich_layout_	
+Location	Number of responses
+emg	1
+nde	3
+sci	5
+hyg	7
+crg	4
+slp	16
+eva	0
+hab	0
+exr	0
+gly	26
+co2	1
+cmd	0
+all	0

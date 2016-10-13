@@ -1,0 +1,340 @@
+Height
+       All 62.5 64.5 69.0 74.8 77.0
+Shoulder Width
+       All 15.0 15.5 18.0 20.0 21.0
+Thumb-tip reach
+       All 25.0 26.1 31.0 34.9 37.0
+Test Number
+Crewmember ID Number
+Experience piloting aircraft?
+Category		 n	yes	 no	p-value
+                  All	67	25.4%	74.6%	nan
+                 Male	51	31.4%	68.6%	0.00*
+               Female	16	6.2%	93.8%	0.03*
+    Flight Experience	17	100.0%	0.0%	0.00*
+     >40 Hours Flight	9	100.0%	0.0%	0.00*
+ No Flight Experience	50	0.0%	100.0%	0.00*
+          21 or older	37	40.5%	59.5%	0.00*
+      Younger than 21	30	6.7%	93.3%	0.00*
+          30 or older	8	75.0%	25.0%	0.00*
+      Younger than 30	59	18.6%	81.4%	0.00*
+     Shorter than 70"	39	12.8%	87.2%	0.00*
+        70" or taller	28	42.9%	57.1%	0.00*
+Flying time in space?
+Category		 n	yes	 no	p-value
+                  All	67	3.0%	97.0%	nan
+                 Male	51	3.9%	96.1%	0.00*
+    Flight Experience	17	11.8%	88.2%	0.00*
+     >40 Hours Flight	9	22.2%	77.8%	0.00*
+ No Flight Experience	50	0.0%	100.0%	0.00*
+          21 or older	37	5.4%	94.6%	0.00*
+          30 or older	8	25.0%	75.0%	0.00*
+      Younger than 30	59	0.0%	100.0%	0.00*
+Number of spaceflights
+Long duration?
+Category		 n	yes	 no	p-value
+                  All	1	100.0%	0.0%	nan
+Spacecraft simulators?
+Category		 n	yes	 no	p-value
+                  All	67	11.9%	88.1%	nan
+    Flight Experience	17	35.3%	64.7%	0.00*
+     >40 Hours Flight	9	55.6%	44.4%	0.00*
+ No Flight Experience	50	4.0%	96.0%	0.00*
+          21 or older	37	18.9%	81.1%	0.00*
+      Younger than 21	30	3.3%	96.7%	0.03*
+          30 or older	8	50.0%	50.0%	0.00*
+      Younger than 30	59	6.8%	93.2%	0.00*
+Experience working in human spacecraft?
+Category		 n	yes	 no	p-value
+                  All	66	7.6%	92.4%	nan
+    Flight Experience	16	25.0%	75.0%	0.00*
+     >40 Hours Flight	8	37.5%	62.5%	0.00*
+ No Flight Experience	50	2.0%	98.0%	0.00*
+          21 or older	36	13.9%	86.1%	0.00*
+      Younger than 21	30	0.0%	100.0%	0.02*
+          30 or older	7	42.9%	57.1%	0.00*
+      Younger than 30	59	3.4%	96.6%	0.00*
+Rate the acceptability of the crew sleeping quarters
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	5.1	0.0%	0.0%	1.5%	16.7%	51.5%	30.3%	98.5%	nan
+     Shorter than 70"	39	5.3	0.0%	0.0%	0.0%	10.3%	51.3%	38.5%	100.0%	0.04*
+        70" or taller	27	4.9	0.0%	0.0%	3.7%	25.9%	51.9%	18.5%	96.3%	0.04*
+Would you rather have crew sleeping quarters clustered together or spread out?
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	65	3.5	10.8%	18.5%	23.1%	18.5%	13.8%	15.4%	47.7%	nan
+    Flight Experience	16	4.4	6.2%	6.2%	12.5%	12.5%	37.5%	25.0%	75.0%	0.01*
+     >40 Hours Flight	9	4.7	0.0%	0.0%	22.2%	22.2%	22.2%	33.3%	77.8%	0.02*
+ No Flight Experience	49	3.2	12.2%	22.4%	26.5%	20.4%	6.1%	12.2%	38.8%	0.01*
+Rate the acceptability of the sleeping quarters in terms of sense of privacy.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	4.8	1.5%	3.0%	9.1%	24.2%	28.8%	33.3%	86.4%	nan
+Rate the acceptability of the volume available in the sleeping quarters, for use for sleeping.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	5.4	0.0%	0.0%	3.0%	9.1%	31.8%	56.1%	97.0%	nan
+Rate the acceptability of the volume available in the sleeping quarters, for use for personal hygiene.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	4.7	3.0%	1.5%	10.6%	24.2%	28.8%	31.8%	84.8%	nan
+         Above Limits	6	3.8	0.0%	0.0%	50.0%	16.7%	33.3%	0.0%	50.0%	0.05*
+Rate the acceptability of the height dimension of the sleeping quarters.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.5	0.0%	1.5%	4.5%	9.0%	16.4%	68.7%	94.0%	nan
+         Above Limits	7	4.3	0.0%	0.0%	14.3%	57.1%	14.3%	14.3%	85.7%	0.00*
+Rate the acceptability of the width (entrance door to spacecraft outer shell) of the sleeping quarters.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.4	1.5%	0.0%	1.5%	10.4%	25.4%	61.2%	97.0%	nan
+Rate the acceptability of your sleeping quarter location with respect to the locations of the other crewmembers' sleep stations.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	4.8	1.5%	1.5%	13.4%	13.4%	35.8%	34.3%	83.6%	nan
+     >40 Hours Flight	9	3.7	11.1%	0.0%	33.3%	33.3%	11.1%	11.1%	55.6%	0.01*
+          30 or older	8	3.9	0.0%	0.0%	37.5%	37.5%	25.0%	0.0%	62.5%	0.01*
+      Younger than 30	59	5.0	1.7%	1.7%	10.2%	10.2%	37.3%	39.0%	86.4%	0.01*
+                  CM2	17	5.4	0.0%	0.0%	0.0%	17.6%	29.4%	52.9%	100.0%	0.05*
+Rate the acceptability of the sleeping quarters' location with respect to the locations of the nearby areas.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.4	0.0%	0.0%	6.0%	7.5%	29.9%	56.7%	94.0%	nan
+      Aerospace Major	43	5.5	0.0%	0.0%	2.3%	9.3%	20.9%	67.4%	97.7%	0.05*
+Rate the acceptability of the personal hygiene storage location.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	4.8	1.5%	7.5%	10.4%	17.9%	19.4%	43.3%	80.6%	nan
+          30 or older	8	3.1	12.5%	37.5%	25.0%	0.0%	0.0%	25.0%	25.0%	0.01*
+      Younger than 30	59	5.0	0.0%	3.4%	8.5%	20.3%	22.0%	45.8%	88.1%	0.01*
+Rate the acceptability of room available to eat together at the table.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	4.2	1.5%	7.6%	21.2%	27.3%	25.8%	16.7%	69.7%	nan
+         Below Limits	3	2.0	33.3%	33.3%	33.3%	0.0%	0.0%	0.0%	0.0%	0.01*
+Rate the efficiency of the locations of the food warmer and the potable water dispenser.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	4.1	4.5%	17.9%	9.0%	22.4%	28.4%	17.9%	68.7%	nan
+Would you rather have the table collapsed after meals, or have it available as a surface to use for other purposes throughout the day?
+Category		 n	collapsed	available	 no	p-value
+                  All	67	83.6%	16.4%	nan
+                 Male	51	80.4%	19.6%	0.00*
+Rate the accessibility of the food storage.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.2	0.0%	1.5%	10.4%	11.9%	20.9%	55.2%	88.1%	nan
+          30 or older	8	4.2	0.0%	12.5%	25.0%	12.5%	25.0%	25.0%	62.5%	0.05*
+      Younger than 30	59	5.3	0.0%	0.0%	8.5%	11.9%	20.3%	59.3%	91.5%	0.05*
+Rate the acceptability of the location of the table
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.2	0.0%	3.0%	1.5%	13.4%	34.3%	47.8%	95.5%	nan
+    Flight Experience	17	4.8	0.0%	5.9%	5.9%	17.6%	47.1%	23.5%	88.2%	0.03*
+ No Flight Experience	50	5.4	0.0%	2.0%	0.0%	12.0%	30.0%	56.0%	98.0%	0.03*
+Rate the acceptability of the location of the oven
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	4.5	1.5%	11.9%	11.9%	20.9%	19.4%	34.3%	74.6%	nan
+Rate the acceptability of the location of the food storage
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.1	0.0%	1.5%	9.0%	9.0%	35.8%	44.8%	89.6%	nan
+Rate the acceptability of the location of the waste bag
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.3	0.0%	6.0%	3.0%	7.5%	22.4%	61.2%	91.0%	nan
+    Flight Experience	17	4.9	0.0%	5.9%	11.8%	5.9%	41.2%	35.3%	82.4%	0.04*
+ No Flight Experience	50	5.4	0.0%	6.0%	0.0%	8.0%	16.0%	70.0%	94.0%	0.04*
+          30 or older	8	4.2	0.0%	25.0%	12.5%	0.0%	37.5%	25.0%	62.5%	0.03*
+      Younger than 30	59	5.4	0.0%	3.4%	1.7%	8.5%	20.3%	66.1%	94.9%	0.03*
+Rate the acceptability of the location of the rehydration system
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	4.4	1.5%	14.9%	13.4%	13.4%	20.9%	35.8%	70.1%	nan
+Rate the acceptability of the command center layout.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	64	5.5	0.0%	0.0%	1.6%	10.9%	28.1%	59.4%	98.4%	nan
+Rate the accessibility of the command center control panel.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	64	5.6	0.0%	0.0%	1.6%	4.7%	29.7%	64.1%	98.4%	nan
+    Flight Experience	17	5.1	0.0%	0.0%	5.9%	17.6%	41.2%	35.3%	94.1%	0.01*
+ No Flight Experience	47	5.7	0.0%	0.0%	0.0%	0.0%	25.5%	74.5%	100.0%	0.01*
+     Shorter than 70"	38	5.8	0.0%	0.0%	0.0%	0.0%	23.7%	76.3%	100.0%	0.02*
+        70" or taller	26	5.3	0.0%	0.0%	3.8%	11.5%	38.5%	46.2%	96.2%	0.02*
+Rate the acceptability of using command center location in the habitat for personal communication (e.g. a phone call or Skype) with friends and family.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	63	4.4	0.0%	4.8%	23.8%	22.2%	23.8%	25.4%	71.4%	nan
+For personal communications (e.g. phone call or Skype) with friends and family, would you prefer to talk/video conference in private or the communal space?
+Category		 n	private	communal	 no	p-value
+                  All	62	96.8%	3.2%	nan
+                 Male	47	95.7%	4.3%	0.00*
+ No Flight Experience	46	95.7%	4.3%	0.00*
+          21 or older	34	94.1%	5.9%	0.00*
+      Younger than 30	55	96.4%	3.6%	0.00*
+To what degree did the presence of other crew members affect your cargo transfer?
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	2.4	40.3%	17.9%	13.4%	19.4%	7.5%	1.5%	28.4%	nan
+Rate the acceptability of the location of the cargo storage for accessibility and logical location.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.0	1.5%	0.0%	6.0%	19.4%	38.8%	34.3%	92.5%	nan
+Rate the acceptability of the location of the tool storage for accessibility and location proximity to work areas
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.3	0.0%	1.5%	6.0%	11.9%	26.9%	53.7%	92.5%	nan
+Rate the acceptability of the location of the science control panel for usability and location proximity to work areas.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.6	0.0%	0.0%	1.5%	6.0%	23.9%	68.7%	98.5%	nan
+Rate the acceptability of the workspace at the workstation for usability, adequacy of surface area.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.5	0.0%	1.5%	1.5%	6.0%	29.9%	61.2%	97.0%	nan
+    Flight Experience	17	4.9	0.0%	5.9%	5.9%	17.6%	29.4%	41.2%	88.2%	0.03*
+ No Flight Experience	50	5.7	0.0%	0.0%	0.0%	2.0%	30.0%	68.0%	100.0%	0.03*
+Rate the acceptability of the location of the science station for accessibility and usability.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.6	0.0%	0.0%	3.0%	3.0%	26.9%	67.2%	97.0%	nan
+To what degree did the presence of other crewmembers affect your science work?
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	2.0	52.2%	28.4%	6.0%	1.5%	7.5%	4.5%	13.4%	nan
+Rate the acceptability for amount of space used for the treadmill.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.6	0.0%	1.5%	1.5%	3.0%	22.4%	71.6%	97.0%	nan
+Rate the acceptability of the location of the treadmill for accessibility.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.7	0.0%	0.0%	1.5%	3.0%	16.4%	79.1%	98.5%	nan
+Rate the acceptability for amount of space used for the resistive exercise equipment.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.4	0.0%	1.5%	3.0%	6.0%	29.9%	59.7%	95.5%	nan
+Rate the acceptability of the location of the resistive exercise equipment for accessibility and unobtrusiveness.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.2	0.0%	1.5%	3.0%	9.0%	43.3%	43.3%	95.5%	nan
+Rate the acceptability for the amount of volume used for personal hygiene in the node.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	65	5.5	0.0%	1.5%	1.5%	6.2%	26.2%	64.6%	96.9%	nan
+Rate the acceptability of the location of the personal hygiene space for convenience, accessibility and privacy.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.2	0.0%	3.0%	7.5%	11.9%	25.4%	52.2%	89.6%	nan
+     Shorter than 70"	39	5.4	0.0%	2.6%	5.1%	2.6%	25.6%	64.1%	92.3%	0.02*
+        70" or taller	28	4.8	0.0%	3.6%	10.7%	25.0%	25.0%	35.7%	85.7%	0.02*
+Rate the acceptability of the location of the personal hygiene space for privacy.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.3	1.5%	0.0%	4.5%	16.4%	20.9%	56.7%	94.0%	nan
+Rate the acceptability of the LiOH canister storage location for accessibility and proximity to CO2 removal system.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.8	0.0%	0.0%	1.5%	3.0%	13.4%	82.1%	98.5%	nan
+Rate the accessibility of the CO2 removal system.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.8	0.0%	0.0%	1.5%	1.5%	10.4%	86.6%	98.5%	nan
+Rate the accessibility of the spent LiOH canisters inside the CO2 removal system.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.6	0.0%	1.5%	4.5%	6.0%	11.9%	76.1%	94.0%	nan
+To what degree did the presence of other crewmembers affect your maintenance work?
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	1.5	86.6%	1.5%	0.0%	0.0%	7.5%	4.5%	11.9%	nan
+Rate the acceptability of location of the CO2 removal system.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.7	0.0%	0.0%	0.0%	3.0%	19.4%	77.6%	100.0%	nan
+Rate the acceptability of the location of the EVA suits.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	65	5.7	0.0%	0.0%	1.5%	3.1%	16.9%	78.5%	98.5%	nan
+In the Node item removal process, rate the acceptability of the physical and mental effort.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	64	3.2	25.0%	17.2%	10.9%	14.1%	20.3%	12.5%	46.9%	nan
+          21 or older	35	2.8	28.6%	20.0%	14.3%	20.0%	11.4%	5.7%	37.1%	0.04*
+      Younger than 21	29	3.8	20.7%	13.8%	6.9%	6.9%	31.0%	20.7%	58.6%	0.04*
+Rate the acceptability of the Node item removal process.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	63	5.1	6.3%	0.0%	1.6%	6.3%	42.9%	42.9%	92.1%	nan
+Rate the acceptability of the location of the EVA panel.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	62	5.4	0.0%	3.2%	3.2%	8.1%	17.7%	67.7%	93.5%	nan
+Rate the acceptability of having 2 IV helpers per 2 EVA crewmembers (EV)
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	36	5.7	0.0%	0.0%	2.8%	5.6%	8.3%	83.3%	97.2%	nan
+                  CM3	2	4.0	0.0%	0.0%	50.0%	0.0%	50.0%	0.0%	50.0%	0.03*
+How many IV helpers would be ideal per EVA crewmember? (EV)
+Category		n	Mean	1.0	2.0	p-value
+                  All	33	1.1	90.9%	9.1%	nan
+Rate the acceptability of the amount of volume available for 2 crewmembers to don (put on) the EVA suits. (EV)
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	35	5.9	0.0%	0.0%	0.0%	0.0%	14.3%	85.7%	100.0%	nan
+Rate the acceptability of the amount of volume available for 2 crewmembers to doff (take off) the EVA suits. (EV)
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	35	5.8	0.0%	0.0%	0.0%	2.9%	17.1%	80.0%	100.0%	nan
+Rate the acceptability of having 2 IV helpers, per 2 EVA crewmembers. (IV)
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	33	5.8	0.0%	0.0%	3.0%	3.0%	6.1%	87.9%	97.0%	nan
+How many total IV helpers would be ideal per EVA crewmember? (IV)
+Category		n	Mean	1.0	2.0	p-value
+                  All	32	1.2	84.4%	15.6%	nan
+Rate the acceptability of the amount of volume available to help don (put on) the EVA suit. (IV)
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	33	5.6	0.0%	3.0%	0.0%	3.0%	21.2%	72.7%	97.0%	nan
+Rate the acceptability of the amount of volume available to help doff (take off) the EVA suit. (IV)
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	33	5.6	0.0%	3.0%	3.0%	0.0%	18.2%	75.8%	93.9%	nan
+Rate the accessibility of the EVA suit. (IV)
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	33	5.5	0.0%	0.0%	3.0%	6.1%	33.3%	57.6%	97.0%	nan
+Rate the acceptability of the emergency egress path.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	67	5.4	0.0%	0.0%	1.5%	11.9%	26.9%	59.7%	98.5%	nan
+     >40 Hours Flight	9	6.0	0.0%	0.0%	0.0%	0.0%	0.0%	100.0%	100.0%	0.03*
+                  CM4	17	5.8	0.0%	0.0%	0.0%	0.0%	17.6%	82.4%	100.0%	0.04*
+With training, could the 4-person crew successfully and safely egress to the Orion capsule in one minute?
+Category		 n	yes	 no	p-value
+                  All	66	95.5%	4.5%	nan
+                 Male	50	98.0%	2.0%	0.02*
+               Female	16	87.5%	12.5%	0.04*
+ No Flight Experience	49	93.9%	6.1%	0.00*
+      Younger than 30	58	94.8%	5.2%	0.00*
+     Shorter than 70"	39	92.3%	7.7%	0.00*
+Overall, rate the acceptability of the habitat layout.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	65	5.0	0.0%	0.0%	0.0%	20.0%	56.9%	23.1%	100.0%	nan
+    Flight Experience	16	4.7	0.0%	0.0%	0.0%	50.0%	31.2%	18.8%	100.0%	0.04*
+ No Flight Experience	49	5.1	0.0%	0.0%	0.0%	10.2%	65.3%	24.5%	100.0%	0.04*
+Overall, rate the acceptability of the volume of the entire space habitat for a crew of 4 for 60 days.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	65	4.9	0.0%	0.0%	1.5%	30.8%	47.7%	20.0%	98.5%	nan
+     Shorter than 70"	38	5.1	0.0%	0.0%	0.0%	23.7%	44.7%	31.6%	100.0%	0.01*
+        70" or taller	27	4.6	0.0%	0.0%	3.7%	40.7%	51.9%	3.7%	96.3%	0.01*
+Overall, rate the acceptability of the volume for the node.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	62	5.6	0.0%	0.0%	0.0%	6.5%	24.2%	69.4%	100.0%	nan
+Overall, rate the acceptability of the volume for the hab.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	63	5.0	0.0%	0.0%	0.0%	28.6%	46.0%	25.4%	100.0%	nan
+    Flight Experience	14	4.6	0.0%	0.0%	0.0%	50.0%	42.9%	7.1%	100.0%	0.03*
+ No Flight Experience	49	5.1	0.0%	0.0%	0.0%	22.4%	46.9%	30.6%	100.0%	0.03*
+     Shorter than 70"	37	5.2	0.0%	0.0%	0.0%	16.2%	51.4%	32.4%	100.0%	0.02*
+        70" or taller	26	4.7	0.0%	0.0%	0.0%	46.2%	38.5%	15.4%	100.0%	0.02*
+Rate the acceptability of the volume of public spaces in the entire space habitat.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	65	5.2	0.0%	0.0%	1.5%	18.5%	41.5%	38.5%	98.5%	nan
+Rate the acceptability of the amount of private spaces in the entire space habitat.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	64	4.6	0.0%	6.2%	9.4%	23.4%	37.5%	23.4%	84.4%	nan
+Is there any place where there was more volume than needed?
+Category		 n	yes	 no	p-value
+                  All	62	64.5%	35.5%	nan
+ No Flight Experience	46	58.7%	41.3%	0.00*
+         Above Limits	7	100.0%	0.0%	0.05*
+Is there any place where more volume is needed?
+Category		 n	yes	 no	p-value
+                  All	62	83.9%	16.1%	nan
+      Younger than 30	56	85.7%	14.3%	0.00*
+Would you change the layout or arrangement of locations?
+Category		 n	yes	 no	p-value
+                  All	65	76.9%	23.1%	nan
+                 Male	50	72.0%	28.0%	0.00*
+ No Flight Experience	49	73.5%	26.5%	0.01*
+      Younger than 30	58	75.9%	24.1%	0.04*
+                  CM2	17	58.8%	41.2%	0.01*
+Did any aspect/task feel unsafe due to the layout or volume constraints? If yes, explain.
+Category		 n	yes	 no	p-value
+                  All	64	29.7%	70.3%	nan
+ No Flight Experience	49	32.7%	67.3%	0.03*
+      Younger than 30	57	31.6%	68.4%	0.00*
+                  CM2	17	47.1%	52.9%	0.04*
+Would you like any spatial dividers? How would it impact your experience?
+Category		 n	yes	 no	p-value
+                  All	62	41.9%	58.1%	nan
+                 Male	48	35.4%	64.6%	0.00*
+               Female	14	64.3%	35.7%	0.05*
+ No Flight Experience	46	37.0%	63.0%	0.01*
+      Younger than 30	55	40.0%	60.0%	0.01*
+Would the presence of windows benefit any tasks you performed?
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	3.8	16.7%	16.7%	13.6%	7.6%	15.2%	30.3%	53.0%	nan
+Would the presence of window benefit your psychological well-being?
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	5.8	0.0%	0.0%	0.0%	1.5%	15.2%	83.3%	100.0%	nan
+Overall, rate the acceptability of the amount of storage for the items you worked with.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	5.6	0.0%	1.5%	0.0%	1.5%	27.3%	69.7%	98.5%	nan
+Overall, rate the acceptability of the location of storage.
+Category		n	Mean	1	2	3	4	5	6	(4-6)	p-value
+                  All	66	5.2	0.0%	1.5%	1.5%	15.2%	36.4%	45.5%	97.0%	nan

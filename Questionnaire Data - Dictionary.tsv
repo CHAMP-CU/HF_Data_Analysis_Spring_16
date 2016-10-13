@@ -1,0 +1,98 @@
+Not applicable: -999 Non-response: -888														
+Code	Question	Type of Data	Value	Free-response?	Context	Object	Property	Subproperty	Volume	Layout	Location	Reverse	Privacy	Preference
+crew_test_date_	Test Date	Date	yyyy-mm-dd	0	crew	test	date		0	0		0	0	0
+crew_test_number_	Test Number	Count		0	crew	test	number		0	0		0	0	0
+crew_id_number_	Crewmember ID Number	Categorical	1-4	0	crew	id	number		0	0		0	0	0
+crew_id_name_	Crewmember Name	Nominal		0	crew	id	name		0	0		0	0	0
+crew_experience_age_	What is your age?	Continuous	years	0	crew	experience	age		0	0		0	0	0
+crew_experience_major_	What is or was your college major?	Nominal		1	crew	experience	major		0	0		0	0	0
+crew_experience_profession_	If you are not a student, what is your current profession?	Nominal		1	crew	experience	profession		0	0		0	0	0
+crew_experience_aircraft_	Experience piloting aircraft?	Binary	0 no 1 yes	0	crew	experience	aircraft		0	0		0	0	0
+crew_experience_aircraft_cert	Certificates and ratings	Nominal		1	crew	experience	aircraft	cert	0	0		0	0	0
+crew_experience_aircraft_time	Hours piloting aircraft	Continuous	hours	0	crew	experience	aircraft	time	0	0		0	0	0
+crew_experience_space_	Flying time in space?	Binary	0 no 1 yes	0	crew	experience	space		0	0		0	0	0
+crew_experience_space_nflights	Number of spaceflights	Count		0	crew	experience	space	nflights	0	0		0	0	0
+crew_experience_longduration_	Long duration?	Binary	0 no 1 yes	0	crew	experience	longduration		0	0		0	0	0
+crew_experience_space_time	Total time in space	Continuous	days	0	crew	experience	space	time	0	0		0	0	0
+crew_experience_simulator_	Spacecraft simulators?	Binary	0 no 1 yes	0	crew	experience	simulator		0	0		0	0	0
+crew_experience_simulator_type	Type of spacecraft simulators	Nominal		1	crew	experience	simulator	type	0	0		0	0	0
+crew_experience_simulator_hrs	Hours in spacecraft simulators	Continuous	hours	0	crew	experience	simulator	hrs	0	0		0	0	0
+crew_experience_humanspacecraft_	Experience working in human spacecraft?	Binary	0 no 1 yes	0	crew	experience	humanspacecraft		0	0		0	0	0
+crew_experience_humanspacecraft_type	Hours working in human spacecraft	Continuous	hours	0	crew	experience	humanspacecraft	type	0	0		0	0	0
+crew_anthropometry_height_	Crewmember Height	Continuous	inches	0	crew	anthropometry	height		0	0		0	0	0
+crew_anthropometry_shoulderwidth_	Crewmember Shoulder Width	Continuous	inches	0	crew	anthropometry	shoulderwidth		0	0		0	0	0
+crew_anthropometry_thumbtip_	Crewmember thumb-tip reach	Continuous	inches	0	crew	anthropometry	thumbtip		0	0		0	0	0
+morning_sleep_general_	Rate the acceptability of the crew sleeping quarters	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	general		1	1	slp	0	0	0
+morning_sleep_cluster_	Would you rather have crew sleeping quarters clustered together or spread out?	Ordinal	1-6 1 - closely clustered 6 - spread out	1	morning	sleep	cluster		1	1	slp	0	1	1
+morning_sleep_privacy_	Rate the acceptability of the sleeping quarters in terms of sense of privacy.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	privacy		0	1	slp	0	1	0
+morning_sleep_sleep_volume	Rate the acceptability of the volume available in the sleeping quarters, for use for sleeping.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	sleep	volume	1	0	slp	0	0	0
+morning_sleep_hygiene_volume	Rate the acceptability of the volume available in the sleeping quarters, for use for personal hygiene.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	hygiene	volume	1	0	slp	0	0	0
+morning_sleep_height_	Rate the acceptability of the height dimension of the sleeping quarters.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	height		1	0	slp	0	0	0
+morning_sleep_width_	Rate the acceptability of the width (entrance door to spacecraft outer shell) of the sleeping quarters.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	width		1	0	slp	0	0	0
+morning_sleep_others_location	Rate the acceptability of your sleeping quarter location with respect to the locations of the other crewmembers' sleep stations.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	others	location	0	1	slp	0	0	0
+morning_sleep_nearby_location	Rate the acceptability of the sleeping quarters' location with respect to the locations of the nearby areas.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	sleep	nearby	location	0	1	slp	0	0	0
+morning_storage_hygiene_	Rate the acceptability of the personal hygiene storage location.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	storage	hygiene		0	1	slp	0	0	0
+morning_galley_table_room	Rate the acceptability of room available to eat together at the table.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	galley	table	room	1	1	gly	0	0	0
+morning_galley_efficiency_	Rate the efficiency of the locations of the food warmer and the potable water dispenser.	Ordinal	1-6 1 - completely inefficient 6 - completely efficient	1	morning	galley	efficiency		0	1	gly	0	0	0
+morning_galley_table_collapsed	Would you rather have the table collapsed after meals, or have it available as a surface to use for other purposes throughout the day?	Categorical	0 collapsed 1 available	1	morning	galley	table	collapsed	1	1	gly	0	0	1
+morning_galley_foodstorage_accessibility	Rate the accessibility of the food storage.	Ordinal	1-6 1 - completely inaccessible 6 - completely accessible	1	morning	galley	foodstorage	accessibility	0	1	gly	0	0	0
+morning_table_location_	Rate the acceptability of the location of the table	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	morning	table	location		0	1	gly	0	0	0
+morning_galley_oven_location	Rate the acceptability of the location of the oven	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	morning	galley	oven	location	0	1	gly	0	0	0
+morning_galley_foodstorage_location	Rate the acceptability of the location of the food storage	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	morning	galley	foodstorage	location	0	1	gly	0	0	0
+morning_wastebag_location_	Rate the acceptability of the location of the waste bag	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	morning	wastebag	location		0	1	gly	0	0	0
+morning_galley_rehydration_location	Rate the acceptability of the location of the rehydration system	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	morning	galley	rehydration	location	0	1	gly	0	0	0
+morning_general_location_		Free-response		1	morning	general	location		0	1	gly	0	0	0
+morning_command_layout_	Rate the acceptability of the command center layout.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	morning	command	layout		0	1	cmd	0	0	0
+morning_command_accessibility_	Rate the accessibility of the command center control panel.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	command	accessibility		0	1	cmd	0	0	0
+morning_command_skype_	Rate the acceptability of using command center location in the habitat for personal communication (e.g. a phone call or Skype) with friends and family.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	morning	command	skype		0	1	cmd	0	1	0
+morning_command_personal_	For personal communications (e.g. phone call or Skype) with friends and family, would you prefer to talk/video conference in private or the communal space?	Categorical	0 private 1 communal	1	morning	command	personal		0	1	cmd	0	1	0
+work_cargo_presence_	To what degree did the presence of other crew members affect your cargo transfer?	Ordinal	1-6 1 - none 6 - a great deal	1	work	cargo	presence		1	1	crg	1	0	0
+work_cargo_location_	Rate the acceptability of the location of the cargo storage for accessibility and logical location.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	cargo	location		0	1	crg	0	0	0
+work_science_toolstorage_	Rate the acceptability of the location of the tool storage for accessibility and location proximity to work areas	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	science	toolstorage		0	1	sci	0	0	0
+work_science_location_proximity	Rate the acceptability of the location of the science control panel for usability and location proximity to work areas.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	science	location	proximity	0	1	sci	0	0	0
+work_science_space_	Rate the acceptability of the workspace at the workstation for usability, adequacy of surface area.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	science	space		1	1	sci	0	0	0
+work_science_location_usability	Rate the acceptability of the location of the science station for accessibility and usability.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	science	location	usability	0	1	sci	0	0	0
+work_science_presence_	To what degree did the presence of other crewmembers affect your science work?	Ordinal	1-6 1 - none 6 - a great deal	1	work	science	presence		1	1	sci	1	0	0
+work_exercise_treadmill_space	Rate the acceptability for amount of space used for the treadmill.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	exercise	treadmill	space	1	0	exr	0	0	0
+work_exercise_treadmill_location	Rate the acceptability of the location of the treadmill for accessibility.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	exercise	treadmill	location	0	1	exr	0	0	0
+work_exercise_resistive_space	Rate the acceptability for amount of space used for the resistive exercise equipment.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	exercise	resistive	space	1	0	exr	0	0	0
+work_exercise_resistive_unobtrusiveness	Rate the acceptability of the location of the resistive exercise equipment for accessibility and unobtrusiveness.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	exercise	resistive	unobtrusiveness	0	1	exr	0	0	0
+work_hygiene_volume_	Rate the acceptability for the amount of volume used for personal hygiene in the node.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	hygiene	volume		1	0	hyg	0	0	0
+work_hygiene_location_general	Rate the acceptability of the location of the personal hygiene space for convenience, accessibility and privacy.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	hygiene	location	general	0	1	hyg	0	1	0
+work_hygiene_location_privacy	Rate the acceptability of the location of the personal hygiene space for privacy.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	hygiene	location	privacy	0	1	hyg	0	1	0
+work_co2_lioh_location	Rate the acceptability of the LiOH canister storage location for accessibility and proximity to CO2 removal system.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	co2	lioh	location	0	1	co2	0	0	0
+work_co2_accessibility_	Rate the accessibility of the CO2 removal system.	Ordinal	1-6 1 - completely inaccessible 6 - completely accessible	1	work	co2	accessibility		0	1	co2	0	0	0
+work_co2_lioh_accessibility	Rate the accessibility of the spent LiOH canisters inside the CO2 removal system.	Ordinal	1-6 1 - completely inaccessible 6 - completely accessible	1	work	co2	lioh	accessibility	0	1	co2	0	0	0
+work_co2_presence_	To what degree did the presence of other crewmembers affect your maintenance work?	Ordinal	1-6 1 - none 6 - a great deal	1	work	co2	presence		1	1	co2	1	0	0
+work_co2_location_	Rate the acceptability of location of the CO2 removal system.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	work	co2	location		0	1	co2	0	0	0
+eva_suit_location_	Rate the acceptability of the location of the EVA suits.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	eva	suit	location		0	1	eva	0	0	0
+eva_itemremoval_effort_	In the Node item removal process, rate the acceptability of the physical and mental effort.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	eva	itemremoval	effort		1	1	eva	0	0	0
+eva_itemremoval_general_	Rate the acceptability of the Node item removal process.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	eva	itemremoval	general		1	1	eva	0	0	0
+eva_panel_location_	Rate the acceptability of the location of the EVA panel.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	eva	panel	location		0	1	eva	0	0	0
+eva_helpers_number_	Rate the acceptability of having 2 IV helpers per 2 EVA crewmembers (EV)	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	eva	helpers	number		1	1	eva	0	0	0
+eva_helpers_ideal_	How many IV helpers would be ideal per EVA crewmember? (EV)	Count	0-4	1	eva	helpers	ideal		1	1	eva	0	0	1
+evaev_suit_don_volume	Rate the acceptability of the amount of volume available for 2 crewmembers to don (put on) the EVA suits. (EV)	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	evaev	suit	don	volume	1	0	eva	0	0	0
+evaev_suit_doff_volume	Rate the acceptability of the amount of volume available for 2 crewmembers to doff (take off) the EVA suits. (EV)	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	evaev	suit	doff	volume	1	0	eva	0	0	0
+evaiv_helpers_number_	Rate the acceptability of having 2 IV helpers, per 2 EVA crewmembers. (IV)	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	evaiv	helpers	number		1	0	eva	0	0	0
+evaiv_helpers_ideal_	How many total IV helpers would be ideal per EVA crewmember? (IV)	Count		1	evaiv	helpers	ideal		1	1	eva	0	0	1
+evaiv_suit_don_volume	Rate the acceptability of the amount of volume available to help don (put on) the EVA suit. (IV)	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	evaiv	suit	don	volume	1	0	eva	0	0	0
+evaiv_suit_doff_volume	Rate the acceptability of the amount of volume available to help doff (take off) the EVA suit. (IV)	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	evaiv	suit	doff	volume	1	0	eva	0	0	0
+evaiv_suit_accessibility_	Rate the accessibility of the EVA suit. (IV)	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	evaiv	suit	accessibility		0	1	eva	0	0	0
+emergency_exit_general_	Rate the acceptability of the emergency egress path.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	emergency	exit	general		1	1	emg	0	0	0
+emergency_exit_training_	With training, could the 4-person crew successfully and safely egress to the Orion capsule in one minute?	Binary	0 no 1 yes	1	emergency	exit	training		1	1	emg	0	0	0
+overall_habitat_layout_	Overall, rate the acceptability of the habitat layout.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	overall	habitat	layout		0	1	all	0	0	0
+overall_habitat_longduration_volume	Overall, rate the acceptability of the volume of the entire space habitat for a crew of 4 for 60 days.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	overall	habitat	longduration	volume	1	0	all	0	0	0
+overall_node_general_volume	Overall, rate the acceptability of the volume for the node.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	overall	node	general	volume	1	0	nde	0	0	0
+overall_habitat_general_volume	Overall, rate the acceptability of the volume for the hab.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	overall	habitat	general	volume	1	0	hab	0	0	0
+overall_habitat_publicspace_volume	Rate the acceptability of the volume of public spaces in the entire space habitat.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	1	overall	habitat	publicspace	volume	1	0	all	0	0	0
+overall_habitat_privatespace_volume	Rate the acceptability of the amount of private spaces in the entire space habitat.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	overall	habitat	privatespace	volume	1	0	all	0	1	0
+overall_ich_volume_excess	Is there any place where there was more volume than needed?	Binary	0 no 1 yes	0	overall	ich	volume	excess	1	0	all	0	0	0
+overall_ich_volume_deficit	Is there any place where more volume is needed?	Binary	0 no 1 yes	1	overall	ich	volume	deficit	1	0	all	0	0	0
+overall_ich_layout_	Would you change the layout or arrangement of locations?	Binary	0 no 1 yes	1	overall	ich	layout		0	1	all	0	0	0
+overall_ich_safety_	Did any aspect/task feel unsafe due to the layout or volume constraints? If yes, explain.	Binary	0 no 1 yes	1	overall	ich	safety		1	1	all	0	0	0
+overall_ich_dividers_	Would you like any spatial dividers? How would it impact your experience?	Binary	0 no 1 yes	1	overall	ich	dividers		0	1	all	0	0	1
+overall_ich_windows_practical	Would the presence of windows benefit any tasks you performed?	Ordinal	1-6 1 - none 6 - a great deal	0	overall	ich	windows	practical	0	1	all	0	0	1
+overall_ich_windows_psych	Would the presence of window benefit your psychological well-being?	Ordinal	1-6 1 - none 6 - a great deal	0	overall	ich	windows	psych	0	1	all	0	0	1
+overall_ich_storage_volume	Overall, rate the acceptability of the amount of storage for the items you worked with.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	overall	ich	storage	volume	1	0	crg	0	0	0
+overall_ich_storage_location	Overall, rate the acceptability of the location of storage.	Ordinal	1-6 1 - completely unacceptable 6 - completely acceptable	0	overall	ich	storage	location	0	1	crg	0	0	0
+overall_ich_other_	Is there anything else you’d like to tell us about your experience? Are there any changes you would like made to the habitat?	Free-response		1	overall	ich	other		0	0	all	0	0	0

@@ -1,0 +1,155 @@
+Test Date	
+	(3/4/2016, ASTRONAUT) 3/4/2016 
+	(3/4/2016, ASTRONAUT) 3/4/2016 
+Test Number	
+Crewmember ID Number	
+Crewmember Name	
+	(Jim Voss, ASTRONAUT) Jim Voss 
+	(Joe Tanner, ASTRONAUT) Joe Tanner 
+What is your age?	
+What is or was your college major?	
+If you are not a student, what is your current profession?	
+Experience piloting aircraft?	
+Certificates and ratings	
+Hours piloting aircraft	
+Flying time in space?	
+Number of spaceflights	
+Long duration?	
+Total time in space	
+Spacecraft simulators?	
+Type of spacecraft simulators	
+Hours in spacecraft simulators	
+Experience working in human spacecraft?	
+Hours working in human spacecraft	
+Crewmember Height	
+Crewmember Shoulder Width	
+Crewmember thumb-tip reach	
+Rate the acceptability of the crew sleeping quarters	
+	(6, ASTRONAUT) Crew quarters block the Orion stow location 
+	(4, ASTRONAUT) A little snug, unless you fold computer up. 
+Would you rather have crew sleeping quarters clustered together or spread out?	
+	(5, ASTRONAUT) Too close together 
+	(3, ASTRONAUT) Makes more sense. Better use of space. Consider putting the two storage locations between the sleep stations on each side. 
+Rate the acceptability of the sleeping quarters in terms of sense of privacy.	
+	(3, ASTRONAUT) Too close together 
+	(5, ASTRONAUT) Use accordian type curtain. 
+Rate the acceptability of the volume available in the sleeping quarters, for use for sleeping.	
+Rate the acceptability of the volume available in the sleeping quarters, for use for personal hygiene.	
+	(1, ASTRONAUT) Not enough space and where is hygeine water? 
+Rate the acceptability of the height dimension of the sleeping quarters.	
+	(6, ASTRONAUT) Make sure its tall enough for 95% male 
+Rate the acceptability of the width (entrance door to spacecraft outer shell) of the sleeping quarters.	
+Rate the acceptability of your sleeping quarter location with respect to the locations of the other crewmembers' sleep stations.	
+	(3, ASTRONAUT) Too close together 
+	(4, ASTRONAUT) Put stowage compartment between 
+Rate the acceptability of the sleeping quarters' location with respect to the locations of the nearby areas.	
+Rate the acceptability of the personal hygiene storage location.	
+	(1, ASTRONAUT) I would have mine in my sleep station 
+	(2, ASTRONAUT) Traffic jam. One large door is bad idea. Should be more smaller doors, pullout trays to hold items. 
+Rate the acceptability of room available to eat together at the table.	
+	(4, ASTRONAUT) Okay, but a litle tight. Need more velcro 
+Rate the efficiency of the locations of the food warmer and the potable water dispenser.	
+	(5, ASTRONAUT) Hard to reach the food warmer and oven 
+Would you rather have the table collapsed after meals, or have it available as a surface to use for other purposes throughout the day? (Circle one)	
+	(Collapsed, ASTRONAUT) May not even use table for some meals. 
+Rate the accessibility of the food storage.	
+	(6, ASTRONAUT) Make sure access is not blocked by crew  
+	(5, ASTRONAUT) One person will get food for everyone. Not enough room for all to access. 
+Rate the acceptability of the location of the table	
+Rate the acceptability of the location of the oven	
+Rate the acceptability of the location of the food storage	
+Rate the acceptability of the location of the waste bag	
+Rate the acceptability of the location of the rehydration system	
+	(-999, ASTRONAUT) Spread things out more 
+Rate the acceptability of the command center layout.	
+Rate the accessibility of the command center control panel.	
+Rate the acceptability of using command center location in the habitat for personal communication (e.g. a phone call or Skype) with friends and family.	
+	(3, ASTRONAUT) Consider wireless communications so you can talk to family. 
+For personal communications (e.g. phone call or Skype) with friends and family, would you prefer to talk/video conference in private or the communal space? (Circle one)	
+To what degree did the presence of other crew members affect your cargo transfer?	
+Rate the acceptability of the location of the cargo storage for accessibility and logical location.	
+	(4, ASTRONAUT) PCm is where it is. Not a problem. Don't see need to repeatly opening and closing to PCM hatch. ICH storage area is unacceptable due to one large door. Break up into smaller doors or trays. 
+Rate the acceptability of the location of the tool storage for accessibility and location proximity to work areas	
+	(5, ASTRONAUT) Needs velcro 
+Rate the acceptability of the location of the science control panel for usability and location proximity to work areas.	
+	(6, ASTRONAUT) For 1 g, it would be better to move it to a higher location 
+Rate the acceptability of the workspace at the workstation for usability, adequacy of surface area.	
+	(2, ASTRONAUT) too much space. Don't need that much table space. 
+Rate the acceptability of the location of the science station for accessibility and usability.	
+To what degree did the presence of other crewmembers affect your science work?	
+Rate the acceptability for amount of space used for the treadmill.	
+Rate the acceptability of the location of the treadmill for accessibility.	
+Rate the acceptability for amount of space used for the resistive exercise equipment.	
+	(2, ASTRONAUT) Too close to wall 
+	(6, ASTRONAUT) Could exercise two people at same time. 
+Rate the acceptability of the location of the resistive exercise equipment for accessibility and unobtrusiveness.	
+	(2, ASTRONAUT) Too close to wall 
+	(4, ASTRONAUT) Too near EVA panel 
+Rate the acceptability for the amount of volume used for personal hygiene in the node.	
+	(6, ASTRONAUT) Needs restraints 
+	(2, ASTRONAUT) Too much room. Node is an area that should not be isolated. Hygeine should be placed elsewhere. 
+Rate the acceptability of the location of the personal hygiene space for convenience, accessibility and privacy.	
+Rate the acceptability of the location of the personal hygiene space for privacy.	
+Rate the acceptability of the LiOH canister storage location for accessibility and proximity to CO2 removal system.	
+Rate the accessibility of the CO2 removal system.	
+Rate the accessibility of the spent LiOH canisters inside the CO2 removal system.	
+To what degree did the presence of other crewmembers affect your maintenance work?	
+Rate the acceptability of location of the CO2 removal system.	
+	(5, ASTRONAUT) Could be in the floor also, if that is better for the air flor plumbing. 
+Rate the acceptability of the location of the EVA suits.	
+In the Node item removal process, rate the acceptability of the physical and mental effort.	
+	(1, ASTRONAUT) Not an issue 
+Rate the acceptability of the Node item removal process.	
+	(5, ASTRONAUT) Be nice if this didn't have to be done. 
+Rate the acceptability of the location of the EVA panel.	
+Rate the acceptability of having 2 IV helpers per 2 EVA crewmembers (EV)	
+	(3, ASTRONAUT) Only need 1 total 
+How many IV helpers would be ideal per EVA crewmember? (EV)	
+	(-1, ASTRONAUT) Only need 1 helper for 2 EVA astronauts 
+Rate the acceptability of the amount of volume available for 2 crewmembers to don (put on) the EVA suits. (EV)	
+	(6, ASTRONAUT) Maybe too much volume 
+Rate the acceptability of the amount of volume available for 2 crewmembers to doff (take off) the EVA suits. (EV)	
+	(6, ASTRONAUT) Maybe too much volume 
+Rate the acceptability of having 2 IV helpers, per 2 EVA crewmembers. (IV)	
+	(6, ASTRONAUT) Just need 1 helper 
+	(6, ASTRONAUT) Plenty of room for two. 
+How many total IV helpers would be ideal per EVA crewmember? (IV)	
+	(1, ASTRONAUT) One for both EVA crew members is ok. 
+Rate the acceptability of the amount of volume available to help don (put on) the EVA suit. (IV)	
+	(2, ASTRONAUT) Too much room. Need to segment node with walls. 
+Rate the acceptability of the amount of volume available to help doff (take off) the EVA suit. (IV)	
+	(2, ASTRONAUT) too much 
+Rate the accessibility of the EVA suit. (IV)	
+Rate the acceptability of the emergency egress path.	
+	(6, ASTRONAUT) No real obsticals 
+With training, could the 4-person crew successfully and safely egress to the Orion capsule in one minute?	
+	(y, ASTRONAUT) yes, but after determining the need to egress 
+	(y, ASTRONAUT) Realistic alarm. Oxygen mask straps are pretty tight. 
+Overall, rate the acceptability of the habitat layout.	
+	(4, ASTRONAUT) Need to spread out sleep stations, spread out food prep, and add a divider for the node 
+	(4, ASTRONAUT) Put stowage between sleep stations. 
+Overall, rate the acceptability of the volume of the entire space habitat for a crew of 4 for 60 days.	
+Overall, rate the acceptability of the volume for the node.	
+	(-888, ASTRONAUT) Too much volume 
+Overall, rate the acceptability of the volume for the hab.	
+	(-888, ASTRONAUT) Too small 
+Rate the acceptability of the volume of public spaces in the entire space habitat.	
+Rate the acceptability of the amount of private spaces in the entire space habitat.	
+Is there any place where there was more volume than needed?	
+	(y, ASTRONAUT) Node, and it should be broken up somehow 
+	(y, ASTRONAUT) Need more private hygeine area. Could make contained off private area in node. Plenty of space above our heads. 
+Is there any place where more volume is needed?	
+	(n, ASTRONAUT) Volumes are ok. 
+Would you change the layout or arrangement of locations?	
+	(y, ASTRONAUT) Need to spread out sleep stations, spread out food prep, and add a divider for the node 
+	(y, ASTRONAUT) yes, as previously discussed. 
+Did any aspect/task feel unsafe due to the layout or volume constraints? If yes, explain.	
+Would you like any spatial dividers? How would it impact your experience?	
+	(y, ASTRONAUT) In node 
+	(y, ASTRONAUT) yes, in node. 
+Would the presence of windows benefit any tasks you performed?	
+Would the presence of window benefit your psychological well-being?	
+Overall, rate the acceptability of the amount of storage for the items you worked with.	
+Overall, rate the acceptability of the location of storage.	
+Is there anything else you’d like to tell us about your experience? Are there any changes you would like made to the habitat?	
+	(-999, ASTRONAUT) Personal stowage locationg change as mentioned before. 

@@ -1,0 +1,2368 @@
+Test Date	
+	(3/8/2016) 3/8/2016 
+	(3/8/2016) 3/8/2016 
+	(3/18/2016) 3/18/2016 
+	(3/17/2016) 3/17/2016 
+	(3/18/2016) 3/18/2016 
+	(3/14/2016) 3/14/2016 
+	(3/15/2016) 3/15/2016 
+	(3/16/2016) 3/16/2016 
+	(3/17/2016) 3/17/2016 
+	(3/31/2016) 3/31/2016 
+	(3/31/2016) 3/31/2016 
+	(3/15/2016) 3/15/2016 
+	(3/10/2016) 3/10/2016 
+	(3/17/2016) 3/17/2016 
+	(3/9/2016) 3/9/2016 
+	(3/7/2016) 3/7/2016 
+	(3/7/2016) 3/7/2016 
+	(3/14/2016) 3/14/2016 
+	(3/14/2016) 3/14/2016 
+	(3/7/2016) 3/7/2016 
+	(3/15/2016) 3/15/2016 
+	(3/16/2016) 3/16/2016 
+	(3/16/2016) 3/16/2016 
+	(3/10/2016) 3/10/2016 
+	(3/10/2016) 3/10/2016 
+	(3/15/2016) 3/15/2016 
+	(3/9/2016) 3/9/2016 
+	(3/16/2016) 3/16/2016 
+	(3/10/2016) 3/10/2016 
+	(3/9/2016) 3/9/2016 
+	(3/17/2016) 3/17/2016 
+	(3/9/2016) 3/9/2016 
+	(3/18/2016) 3/18/2016 
+	(4/1/2016) 4/1/2016 
+	(3/18/2016) 3/18/2016 
+	(3/12/2016) 3/12/2016 
+	(4/1/2016) 4/1/2016 
+	(4/1/2016) 4/1/2016 
+	(3/7/2016) 3/7/2016 
+	(3/31/2016) 3/31/2016 
+	(3/31/2016) 3/31/2016 
+	(3/14/2016) 3/14/2016 
+	(3/14/2016) 3/14/2016 
+	(3/15/2016) 3/15/2016 
+	(3/8/2016) 3/8/2016 
+	(3/11/2016) 3/11/2016 
+	(3/8/2016) 3/8/2016 
+	(3/11/2016) 3/11/2016 
+	(3/16/2016) 3/16/2016 
+	(3/16/2016) 3/16/2016 
+	(3/9/2016) 3/9/2016 
+	(3/4/2016) 3/4/2016 
+	(3/4/2016, ASTRONAUT) 3/4/2016 
+	(3/4/2016, ASTRONAUT) 3/4/2016 
+	(3/16/2016) 3/16/2016 
+	(3/9/2016) 3/9/2016 
+	(3/9/2016) 3/9/2016 
+	(3/16/2016) 3/16/2016 
+	(3/7/2016) 3/7/2016 
+	(3/9/2016) 3/9/2016 
+	(3/4/2016) 3/4/2016 
+	(3/16/2016) 3/16/2016 
+	(3/7/2016) 3/7/2016 
+	(3/11/2016) 3/11/2016 
+	(4/1/2016) 4/1/2016 
+	(3/7/2016) 3/7/2016 
+	(3/7/2016) 3/7/2016 
+Test Number	
+Crewmember ID Number	
+Crewmember Name	
+	(Calvin Sissel) Calvin Sissel 
+	(AJ Gemer) AJ Gemer 
+	(Manuel Diaz Ramos) Manuel Diaz Ramos 
+	(Michael Tzimouraleas) Michael Tzimouraleas 
+	(Megan Keogh) Megan Keogh 
+	(Erika Polhamus) Erika Polhamus 
+	(Zach McConnel) Zach McConnel 
+	(Smit Patel) Smit Patel 
+	(Tristan Davolt) Tristan Davolt 
+	(Patrick Garner) Patrick Garner 
+	(Tobias Niederwieser) Tobias Niederwieser 
+	(Ryan Hardy) Ryan Hardy 
+	(Roshan Misra) Roshan Misra 
+	(Zach Donovan) Zach Donovan 
+	(Kimia Seyedmadani) Kimia Seyedmadani 
+	(Brett Schaffer) Brett Schaffer 
+	(Crawford Leeds) Crawford Leeds 
+	(Brandon Stetler) Brandon Stetler 
+	(Christopher Rouw) Christopher Rouw 
+	(Casey Backes) Casey Backes 
+	(Monica Robles) Monica Robles 
+	(Ridhvik Gopal ) Ridhvik Gopal  
+	(Anahid Blaisdell) Anahid Blaisdell 
+	(Andrew Kerr) Andrew Kerr 
+	(Jordan Thoning) Jordan Thoning 
+	(Rikkea Harris) Rikkea Harris 
+	(Sarah Liddle) Sarah Liddle 
+	(Virginia Nystrom) Virginia Nystrom 
+	(Nick Campbell) Nick Campbell 
+	(Ahnika Littlefield) Ahnika Littlefield 
+	(Benjamin Elsaesser) Benjamin Elsaesser 
+	(Krishan Patel) Krishan Patel 
+	(Erin Shimoda) Erin Shimoda 
+	(Edward Zuzula) Edward Zuzula 
+	(Andre Lucas Antumes De Se) Andre Lucas Antumes De Se 
+	(Daniel Tuttle) Daniel Tuttle 
+	(Young-Young Shen) Young-Young Shen 
+	(James Nabity) James Nabity 
+	(Vignesh Adithya) Vignesh Adithya 
+	(William S Tandy) William S Tandy 
+	(Veronika Lipatova) Veronika Lipatova 
+	(Matthew McKernan) Matthew McKernan 
+	(Josh Jacobson) Josh Jacobson 
+	(Mack Tang) Mack Tang 
+	(Gayatri Vora) Gayatri Vora 
+	(Dillon Elliot) Dillon Elliot 
+	(Phillip D'Amore) Phillip D'Amore 
+	(Matt Busby) Matt Busby 
+	(Anna Tiberi) Anna Tiberi 
+	(Jake Haarberg) Jake Haarberg 
+	(Justin Norman) Justin Norman 
+	(David Klaus) David Klaus 
+	(Jim Voss, ASTRONAUT) Jim Voss 
+	(Joe Tanner, ASTRONAUT) Joe Tanner 
+	(Eleanor Rawlinson) Eleanor Rawlinson 
+	(Anirudh Rajaseshan) Anirudh Rajaseshan 
+	(Gautham Viswardopan) Gautham Viswardopan 
+	(Geya Kairamkonda) Geya Kairamkonda 
+	(Markus Geiss) Markus Geiss 
+	(Aakash Baskar) Aakash Baskar 
+	(Merri Sanchez) Merri Sanchez 
+	(Duncan Palmer) Duncan Palmer 
+	(Stephen Sheler) Stephen Sheler 
+	(Sage Sherman) Sage Sherman 
+	(marijan Grgic) marijan Grgic 
+	(Darby Shepherd) Darby Shepherd 
+	(Ryan Wall) Ryan Wall 
+What is your age?	
+What is or was your college major?	
+If you are not a student, what is your current profession?	
+Experience piloting aircraft?	
+Certificates and ratings	
+Hours piloting aircraft	
+Flying time in space?	
+Number of spaceflights	
+Long duration?	
+Total time in space	
+Spacecraft simulators?	
+Type of spacecraft simulators	
+Hours in spacecraft simulators	
+Experience working in human spacecraft?	
+Hours working in human spacecraft	
+Crewmember Height	
+Crewmember Shoulder Width	
+Crewmember thumb-tip reach	
+Rate the acceptability of the crew sleeping quarters	
+	(5) Places to hang photos would be a nice addition on a 60 day mission, good for crew morale 
+	(5) I am 6'2", and the roof is fairly close to my head, especially in microgravity. Still workable, though. 
+	(5) The size of the sleeping quarters is just fine. Because of gravity acting, it's not easy to feel its real size in 3D space. 
+	(5) The computer folded out into your space. 
+	(6) Sleeping quarters are fine size 
+	(3) Too space constrained 
+	(4) A little cramped, but acceptable 
+	(4) Little room for laptop usage 
+	(5) Overall it feels like there was enough volume, at least for a 60 day mission. If the mission were longer, it'd be nice to have more volume. 
+	(5) Bigger hallway between quarters 
+	(6) I really like personal touch and privacy 
+	(5) Would want curtain to block out all light 
+	(5) Some of the space near the ceiling could be used for storage 
+	(5) Bar on ground, trip hazard 
+	(5) Enough space 
+	(5) Pretty spacious. Not bad. Can get a little annoying with hygiene routine 
+	(5) short but cozy 
+	(4) A bit cramped 
+	(5) Very good overall 
+	(5) but location and functional concept good 
+	(5) Turning on the light was a but awkward. 
+	(4) no books, spacing seemed alright. Would it be possible to rotate items-flip sleeping bag, move light, etc. 
+	(4) Enough room to do daily routine type of things although slightly cramped when we are all getting personal things. 
+	(6) Seemed like typical astronaut quarters. Would have liked to have a window to look out 
+	(5) I don't see a way to change my standing position from bottom to top to top or vice versa. More width in the middle may be necessary. 
+	(5) I felt quite constrained within, while I did fit totally fine, physiologically, it could have some impact on my mental health with time. 
+	(4) Slightly too small for brushing teeth. Risk of water from hygiene activities reaching the computer 
+	(4) Cramped with laptop down 
+	(5) Need a way to stow bag so it doesn't float around in tight space 
+	(5) Slightly difficult to move with computer open, but without the binder in hand, it would be a lot easier 
+	(5) consider mirrors 
+	(5) too close to others 
+	(5) There was enough space for me 
+	(6) The sleeping quarters was more than enough space for myself with enough free room 
+	(4) Pretty cramped for brushing teeth, washing. Good amount of space for sleeping/using laptop, though. 
+	(6) Plenty of Room 
+	(5) Cramped and close together. 
+	(4) would be nice to have the personal storage inside the sleeping quarter 
+	(5) Add windows 
+	(5) Location of Laptop is a little low to see 
+	(6, ASTRONAUT) Crew quarters block the Orion stow location 
+	(4, ASTRONAUT) A little snug, unless you fold computer up. 
+	(6) very spacious and made everything accessible 
+	(6) there was adequate space for all activities 
+	(6) Satisfactory space 
+	(6) Very spacious 
+	(6) Feels spacious enough to accommodate a person. 
+	(5) what type of accessibility? overall? size, lighting? 
+	(4) Interior personal storage would be nice and a more substantial door, like an accordion door or a piece of thick cloth that rolls out. 
+	(5) Imagining doing personal hygiene in there was strange. Access to these materials might be better in the quarters themselves. 
+	(6) Quarter are good. 
+	(5) Well sized, easy access. 
+	(6) as nice as a sleeping closet possible could be! 
+Would you rather have crew sleeping quarters clustered together or spread out?	
+	(1) Clustered together for crew cohesion 
+	(6) Clustered as in one part of the habitat, or without privacy dividers? I think after 60 days any small amount of privacy would be welcome, so I'll say "spread out around the habitat" 
+	(2) Closely clustered, even though that goes against privacy. The team spirit is encouraged. 
+	(2) Closely clustered so that the area is designated for sleeping, and people know when others are sleeping. 
+	(6) In case of crew conflict, having spread out sleeping quarters may be beneficial. 
+	(3) The more room, the better, but if they were spread out there would be more of a feeling of privacy 
+	(4) I could feel vibrations from my neighbor's cabin, which I can see being annoying. 
+	(5) It would make getting ready a bit less cramped. 
+	(4) Could be more spread out, but if crew days are staggered shouldn't be a problem 
+	(6) Spread out for privacy 
+	(2) Clustered, but keep stations very separated 
+	(1) It's nice to have a crew close 
+	(2) space efficient, crew bonding, spaced out 
+	(3) depends on if every one will set up at some time 
+	(3) Some additional space in between the quarters would be good. Willing to reduce the size of the stations for more privacy 
+	(4) It would be nice if the closets for hygiene items were in between the sleeping stations so there could be more isolation 
+	(4) When everyone was exiting their sleeping quarters the hallway became a bit cramped. 
+	(5) like my personal space, sensitive sleeper, it's easy to hear other guys walking by 
+	(3) I would feel safer if everyone were in the same general location, but I wouldn't like being extremely cramped. 
+	(3) Spread out would probably be better because some people sleep louder than others 
+	(5) Would help feel like the space is more present if spread out. 
+	(5) This doesn't matter to me too much, but it would be nice to have everyone nearby so the full crew is always accounted for. 
+	(6) Congested with 4 crew trying to pass through 1 passageway 
+	(3) As long as the space inside sleeping quarters is not compromised, then placing sleeping close to each other should not be a huge issue 
+	(4) More privacy 
+	(4) Its hard to start morning routine when exiting all at once. We ran into one another when exiting the quarters 
+	(3) Spread out a bit more than in the current mock-up, but still pretty close for easy communication 
+	(4) might be better to have a little separation given the duration of a mission 
+	(4) If they were spread out more it would reduce noise disturbances 
+	(6) Was quite congested getting in and out during post wake. 
+	(5, ASTRONAUT) Too close together 
+	(3, ASTRONAUT) Makes more sense. Better use of space. Consider putting the two storage locations between the sleep stations on each side. 
+	(2) makes more sense to conserve space 
+	(3) Not too far apart but within same area 
+	(3) Fits perfectly 
+	(5) depends on the noise level, need clothing storage near sleep station. we bumped into each other right after woke up. would be best to spread out 
+	(5) more privacy 
+	(3) I see benefits to both. Close together could cause a "traffic jam" early in the morning. 
+	(3) You want to save space, but a little separation is nice. 
+	(5) Removable walls would be acceptable also. 
+	(4) being spread out allows more privacy, but I don't mind either way 
+	(1) keeps crew together in case of emergency 
+Rate the acceptability of the sleeping quarters in terms of sense of privacy.	
+	(5) More secure doors would perhaps be a welcome addition, allowing astronauts the ability to have their quarters either open, allowing conversation with other crew members, or closed to allow privacy 
+	(4) would be more private if they were spread out - but the astronauts would know what they signed up for 
+	(2) The sleeping quarters are just for sleeping. Their size is just fine. It feels like sleeping in a tent. 
+	(5) The curtain does a good job. 
+	(5) May be nicer to be completely look proof 
+	(4) It is fine for short term, but over a long period of time it might be nice to have more than just a curtain. 
+	(1) No sound isolation, very close 
+	(4) Curtain is thin for privacy 
+	(6) Curtain works well to provide adequate privacy 
+	(4) Not too private, but curtain does a good job 
+	(4) A better curtain, would add more privacy - noise reduction 
+	(6) complete privecy 
+	(5) Private enough. Would like to talk with family and friends in there 
+	(6) Curtain is sufficient 
+	(5) if curtain secured around perimeter it would be better 
+	(6) closing curtains provided adequate sight and eharing privacy 
+	(5) Close together but private enough 
+	(5) Would be a 6 if they weren't so close 
+	(4) While we were physically seperated we could still hear eachother clearly, which will get annoying. Hearing other people breath could get annoying. 
+	(4) Would be okay with crew quarters more spread out and with a door instead of a curtain 
+	(5) No problems with privacy personally, maybe better sealing curtains 
+	(5) curtain gets in the way, but is nice once inside 
+	(4) Curtains don't block noise 
+	(6) With a crew this seams reasonable amount of privacy from a sleeping quarters 
+	(3) Curtains a nice feature. May need some soundproofing for quarters across from each other 
+	(3) Curtain could be thicker and cover opening better 
+	(6) curtain works, sound proofing would be nice. privacy was good 
+	(3) Visual privacy good. 
+	(6) Generally fine 
+	(3, ASTRONAUT) Too close together 
+	(5, ASTRONAUT) Use accordian type curtain. 
+	(6) curtains provide adequate privacy 
+	(6) nice and cozy 
+	(4) depends on how quiet they are, most would probably like spread out 
+	(3) needs better door 
+	(6) Using my imagination to think about more rigid walls with insulation, it seemed accessible 
+	(4) A little close together, besides that it is fine. 
+	(4) something to keep the curtain closed would increase privacy 
+Rate the acceptability of the volume available in the sleeping quarters, for use for sleeping.	
+	(6) Crew quarters did not feel cramped, had plenty of space to sleep and work on laptop, Velcro straps on walls to hang various items and keep track of them would be a good addition 
+	(4) The area is pretty small, but if all your doing is sleeping than it is alright. 
+	(6) it's microgravity, you don't need much space anyway 
+	(3) I would probably be able to fall asleep, but it was hard to maneuver with the sleeping bag 
+	(4) This may have to do with using sleeping bags as impromptu sleeping cells, but it seemed a little short 
+	(6) "It was silent" 
+	(5) I had enough space to maneuver. I could have used some micro-g though. 
+	(5) Enough volume 
+	(5) More storage could be added 
+	(5) Enough room to sleep 
+	(5) Good area 
+	(6) do not need much space to sleep 
+	(5) enough room 
+	(6) Definitely enough room 
+	(6) adequate length 
+	(6) Good room for sleeping 
+	(5) Not enough room to stretch after waking up, but is expected 
+	(6) I don't see a way to change my standing position from bottom to top to top or vice versa. More width in the middle may be necessary. 
+	(5) While it is crowded, I think I would be fine sleeping. There appeared to be enough room to stretch out. 
+	(5) May need some additional room for feet to extend 
+	(6) in sleeping bag with computer closed, the sleeping area was fine 
+	(6) I'm short so it was fine 
+	(6) more than enough space 
+	(5) In microgravity it should be good. Maybe slightly move space vertically or horizontally 
+	(6) easy to sleep in, not claustrophobic 
+	(4) Enough space to work with and be happy 
+	(5) A little more room width/depth would be nice. Height was ok 
+	(6) would also have some personal item stored in, can't evaluate that unless simulated 
+	(5) I didn't notice anything 
+	(6) This is space, save mass. 
+	(5) Taller persons wouldn't fit well. 
+	(5) a bit large for sleeping 
+Rate the acceptability of the volume available in the sleeping quarters, for use for personal hygiene.	
+	(5) A mirror in the crew quarters would be a nice addition to the crew quarters 
+	(4) You don't need that much space. 
+	(4) personal hygiene space is small 
+	(6) Likely due to sleeping bag 
+	(4) I would have preferred doing it in the hallway. It was tight as everyone did it at the same time 
+	(4) I like to have space to move around while brushing my teeth but that's just me 
+	(4) Could be slightly larger 
+	(4) I imagine will be too crowded when you have so much stuff in there 
+	(6) Not sure how water is used for hygiene in 0G but could use specific area for this in quarters 
+	(6) Would be nice to have a mirror 
+	(2) Quite small for hygiene 
+	(4) acceptable 
+	(4) could use a little more room to stream area 
+	(6) Definitely enough room 
+	(5) no place to put binder, wouldn't have this problem in space, no mirror, no room for stretching but may not need this 
+	(5) There was enough room. More room would make brushing teeth easier but its definitely manageable as is. 
+	(6) space was fine 
+	(3) It was quite crowded and I felt fairly claustrophobic brushing my teeth. 
+	(3) Laptop down makes for cramped quarters 
+	(5) Sleeping bag got in the way 
+	(4) Had to be careful not to hit computer when it was open 
+	(6) more than enough space 
+	(1) No mirror or sink in the quarters. That would make washing and brushing difficult. Need some space around laptop to maneuver. 
+	(4) Could use a bit more elbow room 
+	(5) collapsible shelf or built in for personal items so you don't have to go to the command area all the time. 
+	(3) A shelf of some sort would be nice. 
+	(5) Need water for hygiene/teeth brushing 
+	(1, ASTRONAUT) Not enough space and where is hygiene water? 
+	(5) could be a little bigger for tooth brushing movements 
+	(6) volume ok but need water source for brushing teeth and washing face. what about shaving? they will have less room with personal items 
+	(5) Slightly cramped. 
+	(5) can be tight with some actions 
+Rate the acceptability of the height dimension of the sleeping quarters.	
+	(6) At 73" the crew quarters did not seem too short 
+	(5) For someone 6'2"m it's a bit short (especially in microgravity) 
+	(5) Because of my height, it's not easy to answer this question. 
+	(6) The height is totally sufficient. 
+	(4) The height was good for me but may be a little too small for taller people. 
+	(5) height would be too small for people 6'2" and over, although that would be very tall for an astronaut anyway 
+	(2) For me, I could stand straight up fine without worrying about hitting my head, but someone a little taller than me might have trouble 
+	(6) fine 
+	(6) I'm not very tall so I didn't have any issues with the height of the sleeping quarter. 
+	(6) Tall 
+	(6) Very comfortable for 5'6" person 
+	(6) Feels like lots of room 
+	(6) As a short person, the height was great 
+	(4) exciting Simulation -I' m pretly tall so my head is close to the cilling - exists are small 
+	(6) I'm short so it was good 
+	(3) would have liked to streach a bit 
+	(5) Height was fine 
+	(6) but i am not very tall 
+	(5) had half-foot extra space, may bang head 
+	(6) I didn't feel restricted heightwise. 
+	(6) No issues with the height 
+	(4) As someone that is 6' 4", I need my space to fully stretch out, something I couldn't quite do inside. 
+	(6) I'm not that tall 
+	(6) more than enough space 
+	(6) Good for a person of my height 
+	(6) comfortable, though I am short 
+	(6, ASTRONAUT) Make sure its tall enough for 95% male 
+	(6) perfect 
+	(6) Lots of upper space available 
+	(3) You wouldnt want to be much taller than myself 
+	(6) Could utilize overhead space more for storage of personal items? 
+	(6) I am short 
+	(6) plenty of room 
+Rate the acceptability of the width (entrance door to spacecraft outer shell) of the sleeping quarters.	
+	(6) no issues with width, was able to enter and exit while carrying things (such as checklists) 
+	(6) Had no problems with this 
+	(4) The width is a little tight. 
+	(5) It was fine and a little bit tight 
+	(6) fine 
+	(5) It was wide enough for one person. If you want more than that able to pass though it gets a bit cramped. 
+	(3) Hallway should be a bit wider 
+	(5) I don't know if we need more Velcro on the bottom 
+	(5) just a little small 
+	(6) completely Fine 
+	(6) Good for single file 
+	(6) good 
+	(5) felt tight 
+	(6) I didn't feel constricted. 
+	(6) No issues 
+	(4) I don't see a way to change my standing position from bottom to top to top or vice versa. More width in the middle may be necessary. 
+	(4) It's very crowded that doesn't allow for more than one person to stand in at a time. 
+	(6) No issues 
+	(4) This were to small when each person left at once. Maybe after a few routines, it'll become habit 
+	(4) Fine, but forces one-at-a-time entrance, which can make doing simultaneous tasks between rooms difficult 
+	(6) easy to get in and out 
+	(4) ok, but a little tight 
+	(6) it was easily accessible 
+	(6) perfectly fine 
+Rate the acceptability of your sleeping quarter location with respect to the locations of the other crewmembers' sleep stations.	
+	(6) The same arrangement seems to be the best arrangement for sleeping quarters 
+	(5) They do not get in the way at all. 
+	(3) Would like the sleeping quarters to be more spread out 
+	(6) there is still plenty of room to move through 
+	(6) nicely at the end in privacy 
+	(5) It wasn't bad sleeping near my other crew members. 
+	(4) could be more spread out if all crew are leaving/entering at same time 
+	(1) Too close to others 
+	(5) Kind of close 
+	(5) seems reasonable 
+	(6) little cramped but manageable 
+	(6) Very easy to get to 
+	(5) no issue 
+	(5) could have the storage closer 
+	(4) It would be nice if it were a little further apart 
+	(4) I would rather have them spread out a bit. 
+	(5) could use space between my quarters and the others 
+	(5) Did get crowded when we all woke up at the same time but I liked how we were in the same general area. 
+	(3) Felt like we were sleeping too close to actually sleep comfortably 
+	(6) I don't see a way to change my standing position from bottom to top to top or vice versa. More width in the middle may be necessary. 
+	(5) If the rooms were more sound proof that would be a good thing. 
+	(3) Quarters close together causes congestion and reduces privacy 
+	(6) did not feel cramped or too close to others 
+	(5) Pretty close and tight with everyone coming out at once 
+	(6) Close to everything (central) 
+	(2) Since each quarter faced directly at one another when leaving it made it difficult. If the quarters were in a checkered pattern with each other and the personal belongings it may help 
+	(4) Okay, might like a bit more distance from quarters across from me 
+	(5) would prefer more separation 
+	(3) Location while sleeping is ok (unless someone snores) but getting in and out was crowded. 
+	(3, ASTRONAUT) Too close together 
+	(4, ASTRONAUT) Put stowage compartment between 
+	(6) we could talk, but it was still private 
+	(4) Getting out at the same time and finding the curtains -> weren't comfortable with space 
+	(4) you might be able to hear others snore. Ear plugs should be provided in personal pack. 
+	(4) depends on how quiet they are, everyone bumped into each other getting up 
+	(3) I don't like them cluster. 
+	(6) all in one convenient location 
+	(5) thin walls, but no problem otherwise 
+Rate the acceptability of the sleeping quarters' location with respect to the locations of the nearby areas.	
+	(6) Locating the crew quarters near the Orion spacecraft is good, if there is a fire emergency the crew does not have to travel far in order to enter the Orion spacecraft 
+	(5) It is always available, wherever you are. 
+	(6) I think it is best to have the sleeping locations near the Orion capsule, but I think the emergency procedure should be toward the side of the Orion hatch as well 
+	(4) Nicer to have your personal items available from the crew quarter instead of through the hallway 
+	(5) Having my hygiene cabinet nearby is nice, but maybe being able to store it in my sleeping quarters would help me do things quicker. 
+	(6) Easy Access 
+	(3) Airlock should be closer to Orion? 
+	(6) great 
+	(6) Very easy to get to 
+	(4) cabinets on entire side- all the way forward 
+	(4) gets a little crowded with multiple people true at once 
+	(6) Close to essential items used there 
+	(6) good layout 
+	(6) It seemed like a logical place. Nice that it was out of the way from the other areas (like habitat) so that it was kind of secluded. 
+	(6) Relatively central location 
+	(6) I don't see a way to change my standing position from bottom to top to top or vice versa. More width in the middle may be necessary. 
+	(6) No complaints here. 
+	(4) slightly difficult to reach my storage space with everyone going to same area 
+	(5) Everything was close, it seems repetitive to leave to grab an item every morning to return into our quarters 
+	(5) I think it's great for a small habitat 
+	(6) food and eating area close by 
+	(6) separate enough so you can relax and feel like its your own space 
+	(3) Kind of awkward to access personal storage but otherwise good. 
+	(3) I could not access the personal stowage while Joe was in the hatch area. 
+	(3) I would like to have them more separated so if a crew member wants to sleep there is nothing going on. 
+	(6) everything is pretty close 
+	(6) easy to access other locations 
+Rate the acceptability of the personal hygiene storage location.	
+	(6) Location of personal hygiene packets in the cabinet closest to each crew member's quarters seems justified, leading each crew member to have an area each can use as their personal space. 
+	(6) Perhaps it could be built into the roof of the sleeping quarter? Fine where it is 
+	(3) It is a little far away from my sleeping quarter. 
+	(4) It would be a good idea to have the personal hygiene utilities inside the sleeping quarters. 
+	(3) The space used to store hygiene products is very big. space could possibly be better spent storing additional things. 
+	(6) good place 
+	(5) some other crewmembers found it difficult to locate 
+	(4) confusing 
+	(5) It was nearby and easily accessible. However, it got a little crowded with all of us running around at once 
+	(3) Better to access directly from crew quarter 
+	(5) Plenty of space for my items but it was inconvenient to have to go outside of my quarters to access the cabinet 
+	(4) I need to use Orion before anything else 
+	(6) Lots of room 
+	(6) Convenient 
+	(6) Very large 
+	(5) Handy to have it close to the sleeping quarters 
+	(5) Compered crew member blocking staff 
+	(4) Close but still a little out of the way 
+	(4) confusing at first be better 
+	(4) enough room to eat 
+	(4) Would like to keep personal hygiene items in the sleep quarters 
+	(3) outside my quarters, leave it inside to I can get ready before saying good morning 
+	(6) I like having it near the sleeping quarters. 
+	(2) Consider placing within crew quarters 
+	(4) see previous 
+	(3) Awkward place for number 4, I would rather have it with everyone else's stuff 
+	(5) Perfect height. If it were higher, I would not reach it 
+	(4) The storage was easily accessible except ran into other crew member. This can be a hazard. 
+	(6) Nice and closer to sleeping quarters. Easy to access 
+	(4) should be stored inside sleep quarters 
+	(4) would have MUCH preferred the sleeping quarters 
+	(2) Would be better if it was inside the personal sleeping area. 
+	(3) Needs source of water for hygiene and brushing teeth 
+	(1, ASTRONAUT) I would have mine in my sleep station 
+	(2, ASTRONAUT) Traffic jam. One large door is bad idea. Should be more smaller doors, pullout trays to hold items. 
+	(6) very accessible 
+	(3) Maybe there could be a cabinet in the sleeping station to store personal hygiene things. 
+	(2) would probably keep in sleep station 
+	(4) I would prefer inside your sleep area 
+	(2) Had to hand out in the morning, would be nice to have more direct access 
+	(6) a little cramped, retrieve one at a time. 
+	(5) close to sleeping quarters 
+	(5) location wasn't mentioned but easy to find and access 
+Rate the acceptability of room available to eat together at the table.	
+	(5) There wasn't room at the table for both the food and checklists, but presumably the astronauts would not have these checklists with them on actual missions. 
+	(4) HAB-S-3-B (science bench) protrudes into the table area, restricting one crew member's use of the table 
+	(5) A little far away from my sleeping quarter. 
+	(4) With all four people, the area was a little small, but completely manageable. 
+	(3) The table was too small 
+	(6) good amount of room 
+	(4) a little cramped 
+	(3) space-constrained 
+	(3) There really wasn't much table room, and not enough Velcro to hold all of the feed items 
+	(5) Only thing that got in the way was the binder with scenario instructions 
+	(2) Very tight, maybe better in center 
+	(4) Little elbow space 
+	(4) The table space was just enough to store all of my food, utensils, and drinks. It got a bit crowded with all of the food. 
+	(4) table works for food storage is cramped with mission folders on it. 
+	(4) small. crowded 
+	(3) Ran into other crewmembers 
+	(3) Fine during eating, but cramped during preparation 
+	(-888) As long as we don't have notebooks at the table while eating 
+	(3) Table was small for eating 
+	(3) crew member blocking 
+	(1) Very cramped 
+	(4) with 0g would be enough more would be nice 
+	(6) had to reach over every body 
+	(4) Enough room at table but not around table 
+	(5) little cramped when opening cabinet for utensils 
+	(4) It was a little tight with everyone there, but not too bad. 
+	(4) felt squished, felt uncomfortable 
+	(4) It got crowded especially when everyone was trying to warm/hydrate their food. But in microgravity it will probably be easier with the extra height. 
+	(4) Rubbing elbows 
+	(6) If everyone is eating at the same time and not traveling through the module. 
+	(4) Quite crowded but doable 
+	(2) Too cramped for 4 people at the table 
+	(4) Big swinging doors in tight space were a problem. Need Creative opening solution 
+	(4) was difficult to fit everything on the table, especially with the binder 
+	(3) Not a lot of room with all food on the table and everyone huddled together 
+	(5) Elbows bumped slightly, but acceptable 
+	(3) The table was crowded. Maybe with practice, the table may be used more efficiently. 
+	(2) Very cramped for 4 people and their meals. Would be worse with plates, bowls, etc. 
+	(5) Crowded but with teamwork it is fine 
+	(5) very cramped near the utensil storage but food storage and warming and hydration center were good. put utensils with food 
+	(5) room on table was ok, but the ops for getting food were confusing and we got in each other's way 
+	(4, ASTRONAUT) Okay, but a little tight. Need more Velcro 
+	(4) it was a little tough to all crowd around 
+	(3) there was some amount of reaching around other people to get to food, heat and eat 
+	(5) As the last one, I had to scatter my food across the table 
+	(3) The place to store utensils and wipes is too close to crewmembers at the table; inconvenient to get to 
+	(5) There is no Velcro to secure food on the table, as indicated in the procedure. 
+	(6) best to have one person do food prep if all eating at the same time 
+	(2) Standing next to the door with utensils is miserable. Maybe just have one crew member grab everyone's utensils. 
+	(5) A little wider table would be "better" 
+	(5) utensil storage is a little hard to get to. 
+	(3) crowded, I felt like I was going to bump into something and accidentally turn it on 
+	(5) a bit tight with four 
+Rate the efficiency of the locations of the food warmer and the potable water dispenser.	
+	(5) Location near the food heater and utensil storage creates good kitchen management 
+	(5) Minor note: procedure says "water heater pump on", while there are two switches; "water heater" and "water pump". Also, the "water counter" knob turns counter-clockwise -- this seems counter-intuitive 
+	(5) It is good that it is right next to the table. 
+	(4) Didn't mind heating up everyone's meals and getting silverware for them, but the table could be centered right below the food warmer for more efficient cooking. 
+	(6) location is good because of the close proximity to the table 
+	(6) Specific crewmembers close to appliances would have to perform tasks 
+	(4) They are difficult to reach from the far side of the table 
+	(1) I always had to lean over crewmember 3 to access the kitchen. Maybe better on ceiling 
+	(2) Must rely on other crew members, ok walk around table 
+	(1) It's not at all convenient to have to reach across the table to heat up the food and dispense water. 
+	(2) Should put on opposite wall to allow easier access for all crew members 
+	(4) Could be located away from table, but it's easy enough to get into a team rhythm to hydrate/heat each other's food 
+	(4) Tough to reach with table down 
+	(2) hard to get close 
+	(2) good for those closest to wall, but hard to reach for those farther away. Possibly relocate galley near the food storage area 
+	(5) It's hard to use if you are not the crewmember next to it 
+	(1) Running into people the entire time 
+	(2) attaching oven and water is not a good idea 
+	(3) sort of both world like a table but smaller 
+	(2) Hard to reach over people 
+	(3) Hard for people on end of table to use 
+	(4) have to ask other crew members to prepare, may want to place next to one crew member and rotate task of meal prep. 
+	(4) It got crowded especially when everyone was trying to warm/hydrate their food. But in microgravity it will probably be easier with the extra height. 
+	(2) Had to do a lot of reaching to warm food and get water. Did not like the location. 
+	(2) We would have to reach over everyone's food to prepare our own. Would recommend relocating. 
+	(4) Difficult for crew members on the outer side of the table to access the appliances 
+	(3) Only accessible by 2 crew members at any time 
+	(4) Table in the way (maybe not a problem in 0g) difficult to maneuver around everyone 
+	(2) was very difficult for everyone to reach across table to use the warmer and water dispenser 
+	(5) good placing, as long as there is nobody there to reach around 
+	(3) Constantly reaching across the table. it is easily accessible when [] near 
+	(6) Awesome to have right next to table! 
+	(6) worked well 
+	(2) Difficult to reach over table/other crewmembers to reach 
+	(3) Opening food warmer was problem with food velcroed in front of it 
+	(5, ASTRONAUT) Hard to reach the food warmer and oven 
+	(2) it was very strange having it over all of our meals 
+	(5) However, the units on the water dispenser and the food packages don't match. Use all metric units. 
+	(4) Found it tough to access the panel from the opposite end of the table. Also, access to utensil storage requires a crew member to move every time. 
+	(4) table deployed will have to use zero g area above table to reach hydration and oven 
+	(4) Challenging if you are the crew member standing in front of the utensil storage. Everyone reaches over you. 
+	(3) Had to rely on other crew members for assistance, as it was at the end of the table. Perhaps a better location is away from it. 
+	(6) keep it next to table 
+	(4) close to table -> ok 
+	(5) needed to pass food around 
+Would you rather have the table collapsed after meals, or have it available as a surface to use for other purposes throughout the day?	
+	(Available) Crew members might need the table to attach various items to in order to keep track of them 
+	(Available) Needed room to move around more than a workspace for this scenario 
+	(Collapsed) If there is a table available for other uses throughout the day, it would begin to feel cramped. 
+	(Collapsed) makes for more room 
+	(Collapsed) It would be nice to have a shelf or something, but the table got in the way 
+	(Collapsed) I feel like having it be able to be easily collapsed and available is very handy in case extra table space is needed 
+	(Collapsed) Table is an obstacle 
+	(Collapsed) It creates more space, especially for activities by the command center. 
+	(Collapsed) more space 
+	(Collapsed) Can still use if needed 
+	(Collapsed) With table up, it is cramped 
+	(Collapsed) Table takes up a lot of space 
+	(Collapsed) It gives extra space 
+	(Collapsed) set it out at the beginning of the day 
+	(Collapsed) easy to access 
+	(Collapsed) Collapsed provides more space 
+	(Collapsed) It's a high-traffic area and having it down makes it hard to move 
+	(Collapsed) but counter top one sides for work is important 
+	(Collapsed) would use it when needed but takes up space when passing by 
+	(Collapsed) Definitely took up a lot of space and made getting around slightly more difficult. 
+	(Collapsed) Up makes the communications area cramped 
+	(Collapsed) Less energy and more room to navigate. (If needed the table can be used for a specific task) 
+	(Collapsed) I need as much space as possible in the already crowded volume. 
+	(Collapsed) Stow under most conditions 
+	(Available) It would be a good workspace as long as everyone is not there at once 
+	(Collapsed) could always be set up when necessary 
+	(Collapsed) Bring it down whenever required 
+	(Available) the table still provided a reasonable amount of space around it. 
+	(Collapsed) Maybe have another table more out of the way for "office" or other activities that stays out 
+	(Collapsed) It would get in the way during the day 
+	(Collapsed) provides more room with the option of having it available when needed. 
+	(Available) would be nice to have table bigger for working on. 
+	(Collapsed) Unless specifically needed for something 
+	(Collapsed, ASTRONAUT) May not even use table for some meals. 
+	(Collapsed) it provides more room for movement 
+	(Collapsed) the table can be raised when needed. it would give a lot more room when collapsed 
+	(Collapsed) More space, after CM 1 finished eating, he went to the communication area, I struggled to get between him and the table 
+	(Collapsed) You can always bring it back up 
+	(Collapsed) Unless there is no other temporary stowage place in the galley. 
+	(Collapsed) it gets in the way of translation paths 
+	(Collapsed) can always lift it up. 
+	(Collapsed) With the limited volume available a shelf is better than a table. 
+	(Collapsed) you need room 
+	(Collapsed) collapsed but moved closer to the sleeping area. 
+	(Collapsed) allows more space to move around 
+	(Available) set things down without losing track of them 
+Rate the accessibility of the food storage.	
+	(4) A location nearer to the table would be preferred 
+	(6) No problems here 
+	(5) It is in a good location. 
+	(5) good place for food, but maybe if it was closer to food table that would be better 
+	(5) Maybe make it closer to eating area 
+	(6) Again, the oven and rehydration system were a little hard to reach 
+	(5) good but maybe far away from table 
+	(4) Table stands in the way 
+	(3) It felt like food was stored far away from the galley. 
+	(3) door should open the other way 
+	(6) Easy to access 
+	(4) Nearer to the food prep station 
+	(6) table location was fine - crew member blocking- completely fine but will help if next to the oven-rehydration system - good position - have to go over there crew to access rehydration/ oven 
+	(5) Good area 
+	(4) food +food warmer should be next to each other 
+	(6) the rehydration was a little 
+	(6) Great 
+	(6) cramped near cabinet w/ utensils and wipes 
+	(5) Food location although far from the other food things. 
+	(4) A little out of the way, but I prefer it be out of the way rather than having it be in someone else's way 
+	(3) Not very accessible to the 2 crew members on the far side of the table 
+	(6) no issues 
+	(6) It was very simple and easy to access 
+	(6) No problem. Easy to set up. 
+	(6) not too cramped 
+	(3) Only one person at a time could access it to get to food. Water port was hard to reach from across the table. 
+	(6, ASTRONAUT) Make sure access is not blocked by crew 
+	(5, ASTRONAUT) One person will get food for everyone. Not enough room for all to access. 
+	(4) it would have been better if door opened other way, i.e. towards sleeping quarters to give more room and easy access 
+	(2) would actually have food stored in box that is velcroed somewhere and pull out. would also have snack foods for use during day, needs to be further away from oven/hydration. food on table blocks oven, food storage location blocked by other folks using oven/hydration station 
+	(6) distance is good maybe keep utensils here 
+	(3) I would rather have it closer to the table and food warmer. 
+	(6) easy to find/access 
+Rate the acceptability of the location of the table	
+Rate the acceptability of the location of the oven	
+Rate the acceptability of the location of the food storage	
+Rate the acceptability of the location of the waste bag	
+Rate the acceptability of the location of the rehydration system	
+	
+	(-999) All seemed to be in a good location and near to each other except the food storage, which was located elsewhere nowhere near the table 
+	(-999) Could move food storage to HAB-S-4-A, and perhaps trash to a location accessible to all four crew members while they are at the table (under the table? Velcro to roof? trash part in wall below oven?) 
+	(-999) The table and oven seem to be in the right locations. Just in the middle, accessible to all the crew. Same with the rehydration system. The waste bag is only accessible to one of the members. Maybe the food storage can be on top (or bottom) of the oven? 
+	(-999) They are all accessible. The waste basket could be under the table. 
+	(-999) Everything was in close proximity to one another which was good. Centering the table more towards being underneath the oven may make it easier to reach from the table. This problem could also be solved by being in microgravity (i.e. it will be easier to reach over if you aren't planted on the ground.) 
+	(-999) food storage could be better if closer to table 
+	(-999) Just judging on where I sat and how close everything was to the table 
+	(-999) It was a little inconvenient having to reach over everyone to prepare food, however with teamwork it is efficient and acceptable 
+	(-999) Table could be more centered as it felt crowded at the table. oven and rehydration system should be on ceiling. Waste bag and food storage was fine 
+	(-999) Table length obstructs use of these systems. 
+	(-999) The table was great, especially because it was collapsible. The oven, waste bag, and rehydration were hard to reach. Food storage was far away. 
+	(-999) Oven to rehydration should be in a place where members don't have to reach across the table to access 
+	(-999) I really like the waste bag, table is comfortable but I was too short to reach the water dispenser and I was not able to reach the other side 
+	(-999) The oven system could be accessible (floor/ceiling) rather than on same surface as table 
+	(-999) Galley was hard to access while everyone was at the table, but would acceptable if crewmembers could help each other 
+	(-999) Oven and rehydration system are hard to access with the whole crew there. Also hard to access utensils. 
+	(-999) The rehydration station and the oven are too close to the crew members who have to stand closest to the wall 
+	(-999) Oven and rehydration were above table so I had to constantly reach over crew mates. Could be better with zero-g 
+	(-999) oven +rehydration system inconvenient - most disposal caused a traffic jam - food storage moved out of the way that was ok 
+	(-999) no problem 
+	(-999) Waste bag, oven, and rehydration station were hard to reach when everyone was at the table 
+	(-999) The oven was a little hard to reach from when i was at the table 
+	(-999) It's hard to reach the oven and rehydration system from the ends of the table. The table also makes it hard to move around to get to the other side 
+	(-999) Everything that you need for the tasks of eating is close together, in con 
+	(-999) behind table, waste is actually nice 
+	(-999) Using the oven and rehydration system was difficult when everyone else was around the table. The waste bag was in a quick and easy location, very accessible. Food storage from away but it did help with the crowding. 
+	(-999) Did not like reaching over people to prepare my meal. Also the utensil location was bad. Maybe put it with the food storage. 
+	(-999) The output of the hydration system would be better located in the center closer to the oven (allowing access to both the oven and water from the side) 
+	(-999) I would bring the food storage and prep stations closer together, and have it to the side of the table. 
+	(-999) Hard to reach oven and rehydration station but could be fixed operationally 
+	(-999) Table position conflicts with access to oven and rehydration system. Good for 2 crewmembers but not 4. 
+	(-999) With the table open, it was a little hard to reach the warmer. Could've also been because of the constrained space. 
+	(-999) Prep station above table where people are trying to eat is problematic 
+	(-999) It's difficult to me to explain this, because of my bad English. Everything is ok and comfortable. the place forks and napkins is situated in is difficult to use for 3 another members 
+	(-999) Same as previously stated, table positioning with rehydration station and oven was difficult to reach as everyone was in each other's way 
+	(-999) Everything comes together well, unless there are other people to maneuver around, then the space and set up might be better suited with the table elsewhere 
+	(-999) Rehydration can only be accessed easily if crew member 4 moved. Oven was used by everyone at once which was fine. Table is slightly too close to food storage. 
+	(-999) Food storage could be closer to oven 
+	(-999) The oven and rehydration system were to clustered which made it difficult to access with four crew members 
+	(-999) Table - unfortunate it sticks so far into the cabin. Everything else is great! 
+	(-999) Everything is located together. this make daily activity quick and easy. 
+	(-999) All were easily accessible even with so many people. My one recommendation would be to move the utensils to where the food is. That was the only part that was cramped. 
+	(-999) Oven and rehydration system hard to reach when people are at table. 
+	(-999) Everything was easily acceptable, the key is working together to access places where only one person is standing (or floating). Like the person nest to the utensil/wipe cupboard should give crewmembers its contents 
+	(-999) All were ok in general, but difficult to access while all of us were at the table. 
+	(-999, ASTRONAUT) Spread things out more 
+	(-999) table, oven, and rehydration station shouldn't all be that close 
+	(-999) the locations were good, but there was crowding around table and some difficulty with reaching around astronauts, but that would be made efficient with training 
+	(-999) if you sit on the opposite corner and someone is already eating at the table, it's hard to work around them and access everything 
+	(-999) The waste bag & rehydration system were way too close to some of the crew members, making it inconvenient. The oven and food storage should be centered more so that both sides of the table can reach it with the same amount of ease. 
+	(-999) Was all located very well relative to each other. 
+	(-999) waste bag in way of crewmember. if all crew members getting up and going to table there may be traffic jams. zero-g will help. need 4 velcros per person on table. procedure with a different person pushing a button and someone else making call is not realistic. should have one person. need a visible break in procedure between scenarios 
+	(-999) The oven and rehydration system are difficult if you are the crew member standing next to the utensil storage. 
+	(-999) Rehydration to oven required handing things around. If we were moving at different passes we would want more independence. 
+	(-999) this set up for dining is good, might take some getting used to but it keeps everything manageable and convenient. 
+	(-999) I would prefer everything to be closer, probably shifted to the sleeping quarters. Table, oven and waste bag are all well collocated. 
+	(-999) convenient to have table and warmers close together, but had to pass food to one person to hydrate 
+	(-999) easy to access all, sometimes items would need to be passed through crew members as they were not easily accessible by all crew 
+Rate the acceptability of the command center layout.	
+	(6) Location of all important elements clustered together 
+	(5) A little tight when shoulder to shoulder. 
+	(5) we all had to huddle around it 
+	(6) buttons rather than knobs 
+	(4) cords for headset were annoying 
+	(4) It was hard to find buttons the first time, but that's the case with any interface. 
+	(6) food storage door should open the other way for easier access 
+	(4) It's hard with multiple people 
+	(3) cramped - radio challenge 
+	(6) might be a little inverse if personal conversation 
+	(6) Fine 
+	(6) Enough space for everyone to do all tasks 
+	(5) once used to it, it is adequate 
+	(6) Not too crowded, nice that it is with everyone else- makes more of a family atmosphere. 
+	(5) The outputs are too close together 
+	(6) no issues 
+	(4) A little tight with everyone reaching for the same small area. Spread it out if possible 
+	(6) Which screen to switch on wasn't clear 
+	(6) With a few practices it seems easily accessible 
+	(5) Headphone plugins could be spaced farther apart 
+	(6) easy to access 
+	(4) Needs to be more centrally located 
+	(5) Why the headphones? Is that realistic? No Bluetooth? 
+	(6) good location 
+	(5) Need some time for getting used to the layout. 
+	(4) too cramped, not everyone would be able to actively engaged w/ ground control at once 
+Rate the accessibility of the command center control panel.	
+	(5) Panel was not overcrowded with each space clearly labeled 
+	(4) Kind of tight for 4 people standing around it 
+	(5) It's almost at the center of the habitat, and thus accessible to all the crew. 
+	(5) In good position for everyone to see. 
+	(3) some buttons were doubled, which was annoying 
+	(5) With the table collapsed there wasn't much issue getting everyone around it. 
+	(6) Good layout 
+	(5) good location 
+	(6) they were not a factor 
+	(6) Easy to get to and understand. 
+	(5) With the table stowed 
+	(6) no issues 
+	(6) See previous 
+	(5) Headphone wires are too short. 
+	(6) Doubtful that we will all fit on video 
+	(6) Easily Accessible 
+	(6) Looks good! 
+	(6) spread out enough for 4 
+	(5) There are plugs missing for the microphone I/F 
+	(5) with table stowed 
+	(4) have to reach over people to access switches. 
+	(6) everything is laid out in a way that is easy to find. 
+	(4) Can be busy when operated by four persons 
+	(5) fine as long as the table is down 
+	(5) hard to gather 4 people around without getting tight 
+Rate the acceptability of using command center location in the habitat for personal communication (e.g. a phone call or Skype) with friends and family.	
+	(3) Would be better to make personal calls in each crew member's quarters 
+	(2) No privacy; would rather Skype in crew quarters/airlock 
+	(5) Easy for user. 
+	(4) Not much privacy for personal phone calls; possibly consider making phone calls accessible from personal laptops instead. 
+	(4) preferred privacy 
+	(5) It would be nice to have the option to have a more private offer, however, this isn't 100% necessary 
+	(3) push to talk button maybe better on cord 
+	(3) Too large for a single person to operate 
+	(3) It might be nice to have it be in private, especially for family communication. 
+	(5) Need to close the table in order to connect 
+	(3) would work, but would rather do this in quarters on PC 
+	(-888) No place for "sitting" or staying stationary 
+	(3) Talk to family and friends in a more private location 
+	(6) Tight space but gives some privacy 
+	(3) No privacy 
+	(3) not very private 
+	(5) some might find it too open for personal calls 
+	(2) Not very private 
+	(4) it would seem better if the personal laptops could be used in the sleeping quarter 
+	(4) prefer using personal computer in quarter 
+	(2) I would like my family and friends calls to be a bit more private. 
+	(4) It's nice having it on the opposite side of the habitat from the crew quarters 
+	(6) The system works great if there is not a group of people crowding the area. 
+	(3) no privacy 
+	(5) Outside person pushed against wall 
+	(4) Might be difficult if someone was also using the table 
+	(4) Need private place, otherwise fine. 
+	(6) With a few practices the routine will get easier 
+	(6) OK, but kind of public. Could be noisy with other crewmembers moving around, doing tasks. 
+	(6) It is centralized, so it is close to everything 
+	(4) not quite private enough for personal communication 
+	(6) Unless privacy is desired 
+	(3, ASTRONAUT) Consider wireless communications so you can talk to family. 
+	(3) lack of privacy, this being in main working area with astronauts being always around 
+	(4) Good area, but where's the privacy 
+	(5) Command center has more importance than personal communication, so it should be easy to access and where it is now is fine 
+	(5) Would that also be possible to do a personal computer? to have more privacy? 
+	(4) If you could also call/Skype from your laptop I would have no issue. 
+	(3) Perhaps communications link to personal quarters would be a good secondary option. 
+	(4) might not have the privacy some people would want for personal communication 
+	(5) fine space for one at a time, but no real privacy 
+	(3) only for certain occasions and with others approval 
+For personal communications (e.g. phone call or Skype) with friends and family, would you prefer to talk/video conference in private or the communal space?	
+	(Private) See above 
+	(Private) As above 
+	(Private) It's better to have some kind of privacy for personal communication. 
+	(Private) I think for a 60 day mission you need private support of family 
+	(Private) Would like some private time 
+	(Private) Both available would be nice 
+	(Private) Wouldn't want other crewmembers to hear my conversations 
+	(Private) I would want more privacy 
+	(Private) if every thing is store it could be an issue for multipation reverse everything ay once 
+	(Private) Good to have personal space 
+	(Private) If I want personal communication, I prefer privacy 
+	(Private) if you're with the crew constantly it would be good to be able to get away to talk with friends and family 
+	(Private) could have commercial time but would like more private time 
+	(Private) I would rather have private calls for personal communication. 
+	(Private) But sleeping quarters didn't seem that private 
+	(Communal) but private would also work 
+	(Private) Not a huge deal, but if it is feasible, please allow for this! 
+	(Private) personal preference, but not 100% necessary 
+	(-888) depends on the day 
+	(Private) Inside quarters would be better 
+	(Private) It depends on the scenario but for the most part communication with love ones that are distant may require privacy 
+	(Private) It would be nice to have both options 
+	(Private) It would make the call more personal. 
+	(Private) better to allow for private communications 
+	(Private) Probably nice to talk in private. 
+	(Private) depending on the conversation, but its nice to have some privacy 
+	(Private) lack of privacy, this being in main working area with astronauts being always around 
+	(Private) It would be best in the sleeping quarters 
+	(-888) it will be individual. and there will be a desire to do group video conferences. have single person do video calls is more realistic, need step to unplug headset 
+	(Private) Both is ideal, could you do private laptop but bring it out to command? I'm sure you would want to show them the spacecraft. 
+	(Private) Privacy is important for those times since you live in such close proximity with your crew mates. 
+	(Private) privacy is nice in such close quarters 
+	(Private) some conversations are private, if you want to bring in others, there is room to do so 
+To what degree did the presence of other crew members affect your cargo transfer?	
+	(5) Need to complete cargo transfer before the other crew member closes the hatch to take a bath (or wait until they are done) 
+	(1) The path to the cargo transfer was completely clear. 
+	(2) They weren't in the way that much. 
+	(3) Couldn't put bag back efficiently since there was someone in the shower. Other than this, there were no problems. 
+	(1) there was enough room to move around 
+	(4) had to say "excuse me" a few times to get through 
+	(3) Just that in constrained spaces, it takes some effort to coordinate tasks 
+	(4) Since the cargo was stored in Node-F, I had to wait for the person taking the bath to finish before returning my empty bag 
+	(1) perfect timing 
+	(3) Cargo transport interrupted by hygiene activity 
+	(1) No issues with getting my bag. 
+	(3) maybe in living quarter computer 
+	(3) Had to wait for some of the crewmembers to finish shower, just an inconvenience 
+	(4) Only when closing door to node 
+	(5) Only a problem when a crewmember was bathing 
+	(2) A little crowded 
+	(3) Some, but its not a big deal to wait for them 
+	(2) Have to wait until personal hygiene is done to get in to the node 
+	(1) Easy to move around them 
+	(4) they were in the way during transfer 
+	(1) enough for every thing 
+	(1) Fine as long as door isn't closed 
+	(2) The exercising person closed the hatch when I needed to go through it  
+	(1) Didn't even see them 
+	(5) only because one was bathing 
+	(1) no issues being in each other's way 
+	(4) Someone was showering, so I had to wait to transfer the cargo. 
+	(4) multiple people going into node/pcm area-got in the way 
+	(4) Someone was showering when I returned the cargo. 
+	(5) only the presence of the showering crewmember after work 
+	(4) I had to wait for someone to finish showering. 
+	(1) Conversation could be distracting to others. Would want private space for private information 
+	(4) When node hatch is closed by another cm, had to wait until reopened to complete exercise 
+	(2) Had to wait a sec to enter node as the door was closed, but no other issues 
+	(1) the cargo being transferred was minimal though 
+	(1) Door was open by the time I needed it 
+	(3) Waiting about 10 seconds to enter node to access the PCM while other crew member was bathing 
+	(1) Very simple task 
+	(4) Not too much. Still have the maneuver a bit, which slowed me down. 
+	(2) If someone is bathing, you can't get to cargo. 
+	(2) not too bad, had to wait for traffic to clean up sometimes 
+	(5) Had to wait for crewmember to finish hygiene before returning bag. 
+	(4) The hatch was closed when I needed to access PCM 
+	(1) No interference 
+	(2) cargo was pretty easy to transfer 
+	(1) No one was in the way 
+	(1) have to not have anyone doing hygiene in node 
+	(3) Have to wait for shower to be over, not end of the world but slows you down 
+	(2) made it a little weird to enter and leave node. 
+	(3) couldn't access PCM while other crew member was bathing in node 
+	(4) during workout/shower w/ hatch closed, preventing access to PCM 
+Rate the acceptability of the location of the cargo storage for accessibility and logical location.	
+	(5) it makes sense to have the storage area out of the way of other crew activities 
+	(4) Somewhat blocked by the EVA suits and resistive exercise device; have to bend down to pick stuff up (in Earth gravity) 
+	(5) It is in a very good location. 
+	(4) could just be located by crew quarters 
+	(3) Again, if anyone is in there bathing, it could get awkward 
+	(4) Rather inconvenient having it on the opposing side of the bath area 
+	(5) showering affected it 
+	(5) I ran into some crew members 
+	(5) low to the ground 
+	(6) Easy to access 
+	(4) Too low 
+	(3) Cargo storage is in a good place and out of the way but far 
+	(5) out of the way 
+	(5) no problem 
+	(4) Only a problem when node hatch is closed 
+	(4) same reason as above 
+	(5) The only issue I could see is if someone was showering at the same time someone needed something from cargo 
+	(4) It is kind of inconvenient to go through the extra space just to get cargo. 
+	(5) It is out of the way but difficult when people are using the node. 
+	(6) Great out-of-the-way location 
+	(5) The shower would be the only obstacle I can think of. 
+	(5) Would prefer Orion attached directly to the module vs. node 
+	(3) Having the cargo and crew storage on opposite ends of the spacecraft was a bit difficult 
+	(4) It was slightly high, but not too inaccessible. Logically located as the storage is right next to the private quarters 
+	(6) It was a reasonable distance away 
+	(6) Good! But hopefully cargo never needs to be accessed during an EVA 
+	(6) easy to get in 
+	(3) HAB S-1-B was not labeled, make door open other way 
+	(4, ASTRONAUT) PCM is where it is. Not a problem. Don't see need to repeatedly opening and closing to PCM hatch. ICH storage area is unacceptable due to one large door. Break up into smaller doors or trays. 
+	(6) easy to access 
+	(5) it is next to personal space but also distance from wash area, but it can ? taken there 
+	(6) Best area to keep clothes 
+	(6) It is weird though that not all personal storage spaces are located in the same place. 
+	(5) I may be blocking the access to end of the spacecraft/egress path when opening the personal storage. 
+	(5) great except during crew showers. 
+	(5) I could foresee an issue with working out right there, but in microgravity it could be configured better. 
+	(5) put it near crew members 
+	(5) opposite side of crew quarters 
+Rate the acceptability of the location of the tool storage for accessibility and location proximity to work areas	
+	(5) The GAP was not near the science bench; otherwise OK 
+	(4) Why is the GAP not in the science workstation? 
+	(6) Perfect location. 
+	(5) location is tight but seems like it would work 
+	(5) There was plenty of space and tasks were 
+	(2) GAP was far away from science 
+	(6) Everything was where it should be. 
+	(6) Very clear 
+	(6) Double check procedures, looks like it instructs to stow GAP 2x. 
+	(5) GAP was out of the way 
+	(6) Easy to access 
+	(6) Everything was very close 
+	(4) tools could have been close to the science work area 
+	(6) It was on the same shelf 
+	(4) a little far from the work area 
+	(5) could these things not all be in the habitat cabinets 
+	(4) GAP little out of the way, not unbearable 
+	(6) right next to work except 1 payload, would not have storage there anyway 
+	(6) Good location, didn't seem too out of the way or in the way. 
+	(5) After the initial off-loading, it is quite convenient. 
+	(6) would be ideally closer to personal storage 
+	(6) More than enough space 
+	(3) It is a bit far from workstation and required the node hatch to be open at all times 
+	(6) Plenty of room to work 
+	(3) The GAP should be stored on the science shelf. Just seems like a hassle to go to the node to retrieve it, but I could be missing something logistical. 
+	(5) traffic while trying to perform science experiments which was an issue but overall relatively convenient. 
+	(3) storage next to the work bench would be best 
+	(6) Location and accessibility were fine 
+	(5, ASTRONAUT) Needs Velcro 
+	(5) tool storage was strange with the syringe being so far 
+	(6) for convenience 
+	(5) Enough space, no one was in my way. Seemed like I wasn't in anyone's way 
+	(4) would probably have tools stowed in a bag or on Velcro 
+	(6) tool was right there. 
+	(6) keep utensils close for astronaut work 
+	(6) relatively close 
+Rate the acceptability of the location of the science control panel for usability and location proximity to work areas.	
+	(6) Panels near science lab worked well for payload functionality 
+	(5) A little low for a tall guy like me; had to bend down to read panel/properly adjust water knob (which turns opposite the other water knob) 
+	(5) Good location. 
+	(6) There was plenty of space to work at the science station 
+	(4) It would be nice to have it be more centralized or have more permanent payload locations. 
+	(6) No concerns 
+	(4) The overhead panel was annoying while trying to work, made me want to kneel down 
+	(6) Very spacious 
+	(3) to low 
+	(5) enough room 
+	(6) right next to work-orientation may get confusing 
+	(6) Was not too crowded and I didn't feel like I was restricting others' movement. 
+	(6) Nice and out of the way. Plenty of space to move. 
+	(6) No issues 
+	(6) Everything was fluid and came together nicely 
+	(5) Hit my head while coming through hatch. Should probably be longer in height 
+	(6) a reasonable distance 
+	(5) Seems like a logical place. Maybe some concern of cross-contamination with kitchen next door. 
+	(5) would prefer it were closer to work area 
+	(5) Better on top not bottom for visibility 
+	(6, ASTRONAUT) For 1 g, it would be better to move it to a higher location 
+	(5) I like how it's a little isolated out of other crew members way 
+	(4) depending on nature of science might not want it that close to food prep ovens 
+	(5) works, more space would be great but probably unlikely. 
+	(6) keep it close 
+Rate the acceptability of the workspace at the workstation for usability, adequacy of surface area.	
+	(6) The workspace definitely had enough space to carry out the activities 
+	(4) The top part, which overhangs the bench was too low for a person my height 
+	(5) Plenty of space. 
+	(6) Had good amount of room to conduct experiments without getting in other crew member's way. 
+	(6) workspace shelf is large enough 
+	(6) plenty of surface area for tasks 
+	(5) More room is better, but it didn't feel cramped 
+	(6) Tons of area to work on science or other things 
+	(5) Running area smaller than what I was hoping 
+	(5) The wall was a bit low and interfered with vision 
+	(6) too much space for just 3 experiments 
+	(5) Great surface area 
+	(6) Enough room 
+	(6) Good amount of space 
+	(3) lots of space not in the right height 
+	(6) Good size 
+	(6) a good amount of space 
+	(5) May not have enough area for large or multiple payloads 
+	(5) could be tough to look down on what you're doing looking down forward in current design 
+	(6) Plenty of room 
+	(6) Plenty of room and surface to work. 
+	(6) Nice work station for the size of the experiments. May be more difficult to use with longer experiments 
+	(5) Would have liked to use a surface to help assist in performing science. 
+	(5) Could be a little higher surface 
+	(6) No issues / possibly headroom if anything 
+	(6) If there were bigger projects, we might need more overhead 
+	(5) Plenty of space for experiments, but the height should be more so that everything can be viewed without crouching 
+	(6) the tasks were not very hard to do while other crew performed their duty 
+	(6) Plenty of room for the task I did 
+	(6) Plenty of room. 
+	(6) not bad since there were only 3 experiments. 
+	(4) Ok, but deeper than needed 
+	(2, ASTRONAUT) too much space. Don't need that much table space. 
+	(6) easy to get everything done 
+	(6) can have less, would need places to Velcro experiments and tools so they don't float off 
+	(4) very deep but hard to reach with such low cabinets. would be nice to have a spring loaded table that pops out of the wall. 
+	(6) seems like adequate room to work for this science 
+	(5) plenty of room for three small experiments, could be crowded with more/larger experiments 
+Rate the acceptability of the location of the science station for accessibility and usability.	
+	(6) The science section was well placed out of the way 
+	(6) was not interrupted by other crew activity 
+	(5) Good location. 
+	(5) Wires were crinkled - and it took a moment to straighten them 
+	(5) Again, more room is better, but it didn't feel cramped 
+	(5) Connection panels could be higher 
+	(6) Same as above. 
+	(5) ran into people 
+	(6) Private location 
+	(6) No concerns 
+	(6) Very spacious. Good spot. 
+	(3) should be out of the way better location 
+	(6) they finished before and gathered near me 
+	(6) Good location, plenty of room 
+	(5) need foot holds to prevent counter torque and securing astronaut to do work 
+	(6) Good location 
+	(6) the space seems very adequate 
+	(5) More room is always preferred, but it is usable as is. 
+	(6) middle of the spacecraft was a good location 
+	(6) Easily Accessed 
+	(5) Good. Once again, small concern that the kitchen is close. 
+	(5) mildly in the flow of traffic but easy for the scientist to get to. 
+	(4) kind of in the middle of the room in the way a little bit. 
+	(5) pretty easy 
+	(6) Enough workspace, almost unnecessary space 
+	(4) may not want that close to food prep area 
+	(5) got the job done. everything in close reach 
+	(6) seemed out of the way even though it was in the middle 
+	(3) I would replace science station location with the table location. (I would place science station across the science panel) 
+	(6) central to habitat 
+To what degree did the presence of other crewmembers affect your science work?	
+	(1) No interference 
+	(1) not at all 
+	(5) They weren't in the way. 
+	(2) Couldn't put back experiment since someone was showering, but other than that there were no problems. 
+	(1) Other crew members didn't really affect my work 
+	(6) I couldn't return GAP because of personal hygiene time in the node 
+	(1) they did not affect my work 
+	(2) Workstation had a good location 
+	(1) No interference 
+	(2) Hard to get to PCM when someone is exercising 
+	(2) almost no effect at all 
+	(1) No one came by 
+	(3) cargo transfer was problematic 
+	(2) more than enough space 
+	(2) only when trying to get stuff from the node 
+	(1) Didn't even see them 
+	(5) pressure working in front of others but may not be a factor for flight crew who friend together 
+	(3) I had to wait to put the GAP back into storage. 
+	(5) Just when I had to go back to the storage module because there was someone showering. 
+	(1) Lots of space to do work 
+	(1) wanted to return the GAP, someone was showering. I kept working 
+	(4) Waiting for others to finish showering was annoying 
+	(5) Node hatch being closed got in the way 
+	(5) Had to wait to return science pack to the PCM 
+	(1) no issues 
+	(1) I was the slowest going through the tasks so I was not affected. 
+	(2) Not at all, except waiting to put the GAP back into the PCM while others were bathing 
+	(1) the other crew didn't interfere 
+	(1) Didn't seem to be a problem, except for moving GAP to node 
+	(2) somewhat. if workspace were recessed slightly with less counter space, it would not be affected. 
+	(1) Not sure we really integrated on timeline though 
+	(2) there was a little interference 
+	(1) none, thee was adequate space 
+	(2) Highly acceptable 
+	(1) Had enough space 
+	(2) When node hatch was closed. 
+	(3) everyone doing other tasks, some science/maintenance may take 2 people. not clear whether crew members should proceed to next task on own or be told. echo makes it hard to understand inside habitat 
+	(2) only issue was during showers unable to access storage. 
+	(1) If table was set up, this could be an issue. 
+	(2) toward the end everyone piles in but besides that its fine 
+	(2) It affected me to some extent, mostly because of the sounds. 
+	(3) couldn't access PCM in node while other crew members were bathing 
+	(1) no interference 
+Rate the acceptability for amount of space used for the treadmill.	
+	(6) More than enough space 
+	(6) no problems here 
+	(6) plenty of space 
+	(5) Treadmill width is good, length could be a little longer for taller people. 
+	(6) plenty of space 
+	(6) was able to run in place easily 
+	(5) Space constrained, but understandable 
+	(6) You really don't need that much room for the treadmill, so it was fine 
+	(5) It seemed adequate though an actual treadmill might feel different. 
+	(2) more room to run, not big enough 
+	(5) need more space horizontally 
+	(6) Tons of space 
+	(6) Sufficient space 
+	(6) completely fine 
+	(5) Small but useful 
+	(3) almost to much space 
+	(6) easy to get and use 
+	(6) Plenty of room. 
+	(5) It would work 
+	(6) Lots of great space. Feels like I could get 'alone time' 
+	(6) more than enough space 
+	(5) The treadmill itself could be bigger 
+	(6) Plenty of space 
+	(6) Seems like enough room to run in place 
+	(4) It would be better to have a treadmill and resistive equipment spaced out so both can be used at once. 
+	(6) easy to use 
+	(6) no issues. 
+	(6) lots of space 
+	(6) Pressure of 'everybody finished and is waiting on me' made me increase the rate I was doing my project at. Bias to Science? 
+	(6) plenty of space in the node. 
+	(6) when and where do you change clothes. before/after exercise? can't change/clean up at hygiene station if others exercising 
+	(6) would be nice to have a TV in workout area. 
+	(5) Seems unrealistic, hard to image actual bulk 
+	(6) doesn't need more space for a stationary device 
+Rate the acceptability of the location of the treadmill for accessibility.	
+	(6) Access ok yet out of the way, did not interfere 
+	(6) no problems 
+	(6) perfect location 
+	(5) The only problem you could run into is if somebody is taking a bath 
+	(5) Why is the treadmill in the node? It seems weird to have to move it for EVAs 
+	(4) Can't be there when someone is showering 
+	(3) Would prefer to not stare at the wall 
+	(6) No concerns 
+	(5) Good actually 
+	(6) easy access 
+	(4) Off to the side so out of the way 
+	(5) very accessible 
+	(6) Not difficult to reach at all 
+	(6) The only complaint was having the very bright light shinning in my eyes as I was running. 
+	(6) Window or TV would be great 
+	(6) good location, out of everyone's way 
+	(6) Easily Accessed 
+	(5) Might be a little too close to the node door 
+	(6) out of the way of everything else which is good. 
+	(6) It's in a good spot. 
+	(6) In reality, could be on wall or ceiling if needed 
+	(5) Not at all, except when they were waiting on me to finish, but not space-wise 
+	(6) but it depends...will be exercising at same time? are exercise equipment. vacuum proof? 
+	(5) seems a little close to entrance for the habitat 
+Rate the acceptability for amount of space used for the resistive exercise equipment.	
+	(6) more than enough space 
+	(6) perfect space 
+	(5) Felt a little squished against the wall, microgravity could probably fix this problem. 
+	(5) could be placed more to the left and face more toward the node for more space 
+	(6) plenty of space 
+	(5) There was plenty of space for the resistive equipment 
+	(5) maybe a bit more centered and maybe a TV nearby 
+	(5) Too close to treadmill 
+	(5) There was plenty of space to workout 
+	(6) maybe more room with larger equipment 
+	(5) somewhat close to the node wall 
+	(6) Space was sufficient 
+	(3) Not much space in the way of cargo work 
+	(4) Too close to PCM hatch 
+	(3) could be smaller and wall mounted 
+	(4) Took up a lot of space 
+	(5) almost too much 
+	(6) little to big could be nard zero g 
+	(5) there was not a lot of room behind it 
+	(6) what about lung stretching hard to tell if there's enough room for all type all types of muscle group 
+	(5) A bit restrictive. Might be a problem if another cm was on the treadmill at the same time 
+	(6) no issues 
+	(6) Equipment could be wider 
+	(5) Maybe a little too close to treadmill if something were to happen 
+	(6) plenty of Space 
+	(4) Fine for the activity, but little space to store equipment 
+	(5) more room would be better but it would work fine the way it is. 
+	(6) plenty of room 
+	(6) Plenty of room 
+	(2, ASTRONAUT) Too close to wall 
+	(6, ASTRONAUT) Could exercise two people at same time. 
+	(4) with actual resistance, might bump into wall 
+	(6) excluding the door sitting there 
+	(5) depends on if both exercising 
+	(6) Does not need more space 
+Rate the acceptability of the location of the resistive exercise equipment for accessibility and unobtrusiveness.	
+	(5) somewhat in the way of the cargo module 
+	(4) somewhat blocked by storage closet 
+	(5) great location 
+	(5) see above 
+	(5) Concern for cargo bags to float nearby 
+	(5) The only problem you could run into is if somebody is taking a bath 
+	(5) There seems to be a lot of volume in the node for activities. 
+	(4) Can't be there when someone is showering 
+	(3) It would be easy to hit the EVA panel while working out 
+	(3) In the way of other work 
+	(4) By cargo hold so crew members who needed to get there had to go around 
+	(5) very out of the way 
+	(4) resistive equipment was a little obtrusive to the cargo 
+	(6) Didn't bump into anything while using them 
+	(5) a little in way of cargo 
+	(5) node is quite large- utilizing the whole space may mean a shift in orientation-may cause a problem when exercising 
+	(5) kind of in the way of the cargo entrance 
+	(6) But assuming it didn't block the PCM hatch 
+	(5) Potentially blocks access to cargo module 
+	(6) no issues 
+	(5) Pretty close to cargo hold 
+	(6) easily accessible 
+	(4) Okay. Small space might mean bar/tubes get left on floor. Tripping hazard. Should have wall hook to secure equipment 
+	(5) A little close to the treadmill 
+	(5) mildly in the way but it can be moved so not an issue 
+	(5) In a good spot 
+	(6) no problem 
+	(2, ASTRONAUT) Too close to wall 
+	(4, ASTRONAUT) Too near EVA panel 
+	(5) could be a little better positioned 
+	(5) Easy to access and doesn't take too much room 
+	(5) maybe a bit further from walls 
+	(6) does not seem like its in the way 
+	(5) could get in the way of PCM 
+	(5) close to PCM door 
+Rate the acceptability for the amount of volume used for personal hygiene in the node.	
+	(6) more than enough space 
+	(5) vertical pipe was in the way for changing clothes, but perhaps it would not be there in reality 
+	(-888) plenty of volume 
+	(5) Consider making space a little bigger to have a place to store clothes. 
+	(5) Maybe even too much space. A more shower-like setup would be nice 
+	(6) There was plenty of room for personal hygiene 
+	(6) more than enough 
+	(5) I would like more privacy, maybe a curtain 
+	(6) Tons of room 
+	(6) Sufficient space 
+	(6) Lots of room, not best use of space though 
+	(4) Enough space 
+	(4) a little snug but acceptable 
+	(6) Good space for sponge bath 
+	(3) two much space in 0g problematic 
+	(4) not a lot of privacy need to get to storage 
+	(-888) Would to have more shelves/Velcro to rest hygiene items 
+	(6) So much space! 
+	(5) larger mirror 
+	(6) lots of space 
+	(6) Definitely enough room to shower. 
+	(6) the volume felt much larger than the sleeping area 
+	(6) Good amount of room 
+	(6) more than enough 
+	(5) there was more than enough space. the quarters could be cut back for lighter payloads 
+	(5) Just enough space, I'd say 
+	(6) Lots of room 
+	(6) no problem at all, surprisingly roomy. didn't feel cramped 
+	(6) Plenty of space. 
+	(6) Again, really overkill on volume 
+	(6, ASTRONAUT) Needs restraints 
+	(2, ASTRONAUT) Too much room. Node is an area that should not be isolated. Hygiene should be placed elsewhere. 
+	(6) if anything, too much 
+	(5) I assume there will be other shelves for clothes etc. which might reduce space 
+	(5) It was fine, although it would get uncomfortable if another crew member was on the treadmill 
+	(6) plenty of space 
+	(5) but need to place temporary stow clothes and dry out clothes/towels. need water source for washing 
+	(5) plenty of space, bigger mirror would be nice. 
+	(5) Almost too much room, feels very open 
+	(6) should not need more room for a sponge bath 
+	(4) Plenty of vertical space (if floating) not much horizontal volume if on the ground 
+Rate the acceptability of the location of the personal hygiene space for convenience, accessibility and privacy.	
+	(6) once the hatch was closed, more than enough privacy 
+	(5) greatly private 
+	(4) If somebody needed to exercise or access storage, here would be a problem 
+	(6) With an actual hatch, I'd be fine bathing in there. 
+	(4) Can't be there if someone is working out 
+	(3) Interference with cargo transfer 
+	(6) Private 
+	(2) Too close to hatch if someone accidentally opened it 
+	(6) With hatch closed it's good 
+	(3) in the way hard type flooting away 
+	(3) A curtain/enclosure would add more privacy and allow other people to access the node 
+	(5) Almost too much space. You lose 1/3 of your volume when a person wants to shower 
+	(5) It would be better if someone could wash themselves while someone else is exercising. 
+	(5) this privacy causes inconvenience for rest of crew to get to PCM 
+	(5) It is slightly weird accessing storage through a personal hygiene area. 
+	(5) Even with the door closed, still felt like I was in the open 
+	(4) It is not a totally private space close the exercise equipment and storage which is bad. But with right crewmembers it will be ok. 
+	(4) No place to store clothes 
+	(6) Good for person in node, inconvenient for others 
+	(6) no issues 
+	(5) Not convenient if others want to use the space 
+	(6) As long as no one walks in on you, it is fine. 
+	(6) It was very easy to access 
+	(4) OK for privacy, but can impact rest of crew that needs access to node for their tasks 
+	(6) very private which is important 
+	(3) would be easier if it was at opposite end by crew sleeping quarters. 
+	(6) Overkill on volume 
+	(5) It was fine; although it would get uncomfortable if another crew member was on the treadmill 
+	(3) might not in same place as exercise equipment since someone may be cleaning up while exercising. do you want water source near EVA suits? 
+	(4) just gets in the way for other crewmembers 
+	(5) Same as above 
+	(5) seems fine and accessible, new rags? 
+	(5) opposite of sleeping quarters but plenty of room 
+Rate the acceptability of the location of the personal hygiene space for privacy.	
+	(6) see above 
+	(5) private as long as hatch is closed - hopefully other crew doesn't need to get in there 
+	(5) Only issue is that 1 person can use it at a time. 
+	(6) good amount of room and privacy if hatch closed 
+	(4) What if two crewmembers would like to use the space for hygiene and exercise? Enclosure preferred. 
+	(6) hygiene interrupts cargo transfer 
+	(6) Same as above. 
+	(4) Only private when one person is in the node 
+	(6) Good 
+	(3) as long as the door is shut 
+	(4) easy to get to 
+	(5) it might be more comfortable in an area seperate from the exercise stuff 
+	(6) liked how node is set up, everything applies well to each other, good space/organization, plenty of privacy 
+	(5) Sometimes people need to access storage. 
+	(6) Hygiene area could be curtained 
+	(5) no major privacy issues, though others may need access to storage while station is being used 
+	(6) almost too much space 
+	(4) Others have to access the node forward wall as well as the PCM, so not too much privacy 
+	(5) Some of the other crews may need to access the area to perform duties 
+	(5) Seems fine as long as there's a privacy indicator on door 
+	(6) well placed 
+	(5) although, it did get in the way of the other activities 
+	(4) felt like a giant storage space 
+	(4) only if no one is exercising. maybe a curtain so don't have to open and close hatch. it's a big volume to keep private when other walk in even. 
+	(6) very private but wouldn't there be cameras 
+	(4) Seems unlikely to be able to close off entire node for that length of time 
+	(5) seems close to habitat, but is overall fine 
+	(6) hatch closed makes it very private 
+Rate the acceptability of the LiOH canister storage location for accessibility and proximity to CO2 removal system.	
+	(6) close proximity to CO2 scrubber made it very easy 
+	(5) Good location 
+	(6) easy to use 
+	(5) shelf was not the same height as the canisters 
+	(6) Easy to access 
+	(6) Easy 
+	(3) hard to remove 
+	(6) hard to remove 
+	(6) So easy having it right there next to it 
+	(6) in problem in cardboard mock up 
+	(6) Plenty of room 
+	(6) Very close together 
+	(6) very convenient 
+	(4) Panels in front of shelf obstruct access 
+	(6) Nice and Close 
+	(6) no issues 
+	(6) Easy task 
+	(6) Close and easy to transfer 
+	(6) close together made it easy 
+	(4) I would not locate fresh and spent LiOH cans beside each other. 
+	(5) checklist said to open cabinets 
+	(6) super easy 
+	(6) keep it right next to the station 
+Rate the accessibility of the CO2 removal system.	
+	(6) far from other crew members allowed uninterrupted work 
+	(6) Perfectly accessible 
+	(6) Very easy, good height 
+	(6) No concerns 
+	(6) Easy and close 
+	(3) easy to work with 
+	(5) Thinks it would be dangerous if you drop a canister 
+	(6) why did we change both at the same time 
+	(6) Easy to reach well within proximity to storage. 
+	(6) I feel like it would be better to store these in the cargo area, and use that space for something else 
+	(6) no issues 
+	(6) Very easily accessible and roomy 
+	(6) Seems fine. Not in way of anything 
+	(6) close together, no problem 
+	(6) Very easy to do. 
+	(6) both removal and insertion were easy 
+	(5) Had enough space 
+	(6) easy 
+	(6) right next to station is nice 
+	(6) Too accessible. Could be placed somewhere else. 
+Rate the accessibility of the spent LiOH canisters inside the CO2 removal system.	
+	(4) a little hard to take out but otherwise acceptable 
+	(4) had to tilt them in order to get them into this space 
+	(3) Could be stored on different shelves so things are not easily confused. 
+	(5) Good trash place 
+	(6) velcro and handle were nice 
+	(6) The LiOH system works great! 
+	(6) Maybe on the way off the node 
+	(6) Easy to access 
+	(6) Easy 
+	(3) cargo transfer 
+	(6) Fine 
+	(4) had to "bend" canister in 
+	(6) But didn't matter where it is. I would have gotten it from another storage in the HAB. 
+	(5) could use more space for spent canisters 
+	(4) Canisters were a little tall for the shelf area 
+	(6) easily accessible 
+	(3) Difficult to pull out, gets caught on screws 
+	(6) close together, no problem 
+	(5) Once door is closed, have complete privacy 
+	(2) the shelf is not tall enough. Can't get them out or in. 
+	(6) mock up is difficult but I imagine the actual would be smoother (cardboard gets caught, etc.) 
+	(6) It is nice to remove and set down. Why keep spent trash in the habitat though? 
+	(5) somewhat hard to remove 
+To what degree did the presence of other crewmembers affect your maintenance work?	
+	(1) no effect 
+	(1) not at all 
+	(5) weren't in the way 
+	(6) cabin is space out enough to work 
+	(5) In the middle maybe too much in the middle 
+	(1) No interference 
+	(1) not an issue 
+	(5) crowded space, but do-able 
+	(1) no one was in my way 
+	(1) The other crew did not interfere 
+	(1) there was not a lot of space required for the process so other crew members didn't affect me at all 
+	(1) No issues. 
+	(1) very easy and roomy area to work in 
+	(6) Never in the way 
+	(5) Potential to disturb science-experimenter 
+Rate the acceptability of location of the CO2 removal system.	
+	(6) close to other systems but out of the way 
+	(6) is this a duplicate question from the prior page? 
+	(5) great place 
+	(6) CO2 was really easy to work with 
+	(5) maybe a too prominent location? 
+	(6) Easy location to access 
+	(5) Good location 
+	(6) No concerns 
+	(6) Very accessible 
+	(6) Good location 
+	(6) well set up, easy to access everything, no one in the way of each other 
+	(6) Like it close to quarters in case of emergency at night 
+	(6) did not seem to be in the way of anything else for the time being 
+	(6) Easy task with plenty of space. By far the best task that can be accessed and performed 
+	(6) Good spot out of the way 
+	(6) It is centralized in the spacecraft so it is easy to get to at all times. 
+	(6) easily accessible and well designed 
+	(4) It is easy to access but might make more sense to use this space for storage and move the system to a less-central location. 
+	(5, ASTRONAUT) Could be in the floor also, if that is better for the air floor plumbing. 
+	(5) need to print (or something) foot restraints and hand holds since they are vertical. confusing about waiting between activities. science takes longer so periods of others doing nothing except filling out forms. will need to have steps to completely unlock science. never used hab-5-3-c on/off switcher. value of node too big. would be better to have airlock separate. need place to dry wet clothes/towels. volume of node too big. never told where medical computer or science computer checklist was 
+	(5) Should this take up such valuable work area? 
+	(6) It seems directly in the middle but is not in the way 
+	(6) central to habitat 
+Rate the acceptability of the location of the EVA suits.	
+	(6) out of the way 
+	(6) Good location 
+	(5) They were kind of tough to remove, but we got them 
+	(6) Its nice having a whole space dedicated to EVA. 
+	(5) Could be in a locker 
+	(6) Very convenient unless someone else needs to shower or work out at the same time 
+	(5) Worried about how well protected they would be? 
+	(6) Sufficient space 
+	(6) Good location 
+	(3) in the middle of everything could be along walls 
+	(4) both people at once is a bit hectic 
+	(6) Easy access to hatch, don't have to maneuver in the habitat which is a plus. 
+	(5) Very good. Might be better if suits were separated more 
+	(6) easy to access, lots of room 
+	(6) There's a lot of space in the node, so that's a good spot 
+	(6) Right where they need to be 
+	(6) It is where the EVA will happen 
+	(6) easy to get to, enough room to put them on. 
+	(6) Plenty of room 
+	(4) that close to hygiene station means water may float onto suits and people may ? them up from them 
+	(5) good room for changing 
+	(6) keep that in the node 
+	(6) very accessible 
+	(5) close to PCM hatch 
+In the Node item removal process, rate the acceptability of the physical and mental effort.	
+	(6) took very little effort 
+	(3) resistive exerciser was heavy/bulky 
+	(4) Don't know how much effort is required in microgravity. 
+	(2) little effort 
+	(5) It was a little difficult to put on suits, but would probably be easier is the suits were fitted. 
+	(1) very easy to move the equipment 
+	(5) It was fairly easy 
+	(3) Teamwork required, no obvious handles on exercise equipment 
+	(1) Not a problem. A bit inconvenient, but not the end of the world. 
+	(5) Door hatch was small and somewhat difficult to maneuver when caring stuff 
+	(4) Easy to move 
+	(5) Could get tedious with more items 
+	(5) Hard to move through door, but generally easy 
+	(1) easy increase in almost weightless 
+	(2) resistive stuff was a bit difficult  
+	(4) With actual equipment, it might be hard 
+	(4) I wonder if there is a way to secure them in the node instead 
+	(6) everything is easily removed not too heavy 
+	(4) confusing if not prepared, would be easier in gravity, would help to Velcro check list next to EVA 
+	(5) Difficult but I've never put on a suit before. 
+	(4) Checklist for items to remove would have been helpful 
+	(1) Easy 
+	(5) I was not the one removing anything, but it seemed easy for crewmembers 3 and 4 
+	(4) Pretty difficult, needed help and fell while taking it off 
+	(2) Pretty easy with two people lifting workout device 
+	(3) quite a bit of movement but not too bad in terms of volume 
+	(1) But do not need to specify where to put items - Velcro on wall on towel would be nice 
+	(1, ASTRONAUT) Not an issue 
+	(1) Given the fitness of the astronauts, this would not be a problem. Easy to access, nothing in the way 
+	(3) unclear whether to remove the treadmill. 
+	(-888) other crew members did it 
+	(2) easy 
+	(5) It might get cramped with a real treadmill and exercise center 
+Rate the acceptability of the Node item removal process.	
+	(5) resistive exerciser was the only challenge 
+	(5) tougher to remove 
+	(4) It would be nice if things could just be stored instead of moved 
+	(5) I accidentally spilled the water 
+	(1) High effort to remove exercise equipment 
+	(5) Not that bad 
+	(6) Could get tedious 
+	(5) Easy to move 
+	(5) takes no effect at all 
+	(1) removing this one more thing to forget 
+	(4) it works just seems unnecessary 
+	(6) only took about a minute 
+	(4) would not want to transport everything in and out if EVAs are frequent 
+	(5) Easier than putting it on. 
+	(6) Might be more tedious in zero-g because the equipment would be probably bolted in place 
+	(5) need to know exactly where to put things 
+	(5) Not clear where to store hygiene items. May need a sanitary receptacle 
+	(5) no major issues 
+	(5) The door is a little small to stow items through 
+	(6) Easy 
+	(6) easily removable 
+	(5, ASTRONAUT) Be nice if this didn't have to be done. 
+	(-888) other crew members did it 
+	(5) just slow during showers. 
+	(5) it worked fine, same concern as before 
+	(5) the removal was a 2 person job 
+Rate the acceptability of the location of the EVA panel.	
+	(6) out of the way, did not interfere 
+	(6) seemed fine, except that the umbilical was too short 
+	(5) good place 
+	(5) couldn't locate depress/repress valve 
+	(5) Maybe a little more centered, couldn't reach hatch with umbilical 
+	(6) out of the way 
+	(3) Close to center to room 
+	(6) Easily accessible and good that it was close to hatch 
+	(6) Good location 
+	(2) not on the wall with hatch 
+	(4) two at once is a bot crowded 
+	(4) Better to have separate EVA panel for each astronaut 
+	(4) could not fit both astronauts easily next to it 
+	(6) Very easy to get to. 
+	(5) Intuitive except for left vs. right 
+	(3) I kept bumping into other crew member, difficult for 1 to exit behind 2. 
+	(5) I'm tall so my head gets close to it, but I don't know where else it would go. 
+	(6) Nice and close to exit 
+	(6) not in the way of anything. some concern with the lifting equipment right in front of it. 
+	(6) Right next to door, which was good 
+	(4) A little tough to both fit to reach connection, also, did not specify which umbilical to use. 
+	(4) Good but tricky to use, with training process would be better 
+	(2) very badly secured. Almost fell down. 
+	(-888) needs to be next to hatch 
+	(6) I would not put the panel anywhere else 
+Rate the acceptability of having 2 IV helpers per 2 EVA crewmembers (EV)	
+	(5) a 3rd helper might be beneficial 
+	(6) 1 helper is all you need 
+	(6) It's nice to have the person to help out with putting on pieces. 
+	(6) Easy 
+	(4) more in better 
+	(5) any more world be crowded 
+	(6) one helper was enough 
+	(6) Each person needed one other to help them 
+	(6) 1 person per person would be enough 
+	(6) Assistance definitely helped 
+	(6) No issues, 1 helper per astronaut was sufficient. 
+	(6) One helper was fine to get into suit 
+	(6) no problem, so it was not as bad as I though it would be. 
+	(3, ASTRONAUT) Only need 1 total 
+	(4) only need 1 for 2 EVA 
+	(6) enough room in the node 
+	(6) easy w/ a helper 
+How many IV helpers would be ideal per EVA crewmember? (EV)	
+	(1) see above 
+	(1) All that's necessary. 
+	(1) More than one person per crew member may be chaotic. 
+	(1) I think more might get a bit too chaotic. 
+	(1) More than 1 person would be redundant 
+	(1) One helper is enough 
+	(1) ideal setting 
+	(1) Helped me get into suit 
+	(2) not too many 
+	(1) more team space 
+	(1) One is enough, but 2 would be good if there was a problem 
+	(1) perfectly easy with one person, and would be even easier in micro-gravity 
+	(1) Two would be too many 
+	(1) see previous 
+	(1) More would be cumbersome 
+	(2) in 0g it would be easier to have 2 per person for stability as well as ease of putting on the suit 
+	(0, ASTRONAUT) Only need 1 helper for 2 EVA astronauts 
+	(1) 1 Person is exact 
+	(1) 1 per 2 EVA 
+	(1) only need one 
+Rate the acceptability of the amount of volume available for 2 crewmembers to don (put on) the EVA suits. (EV)	
+	(6) more than enough space for each crew member 
+	(5) Good amount. 
+	(6) the node is quite large 
+	(6) Plenty of space in the node 
+	(6) Sufficient space 
+	(6) one IV help was perfect 
+	(5) One is probably good enough 
+	(6) to much space 
+	(6) enough space 
+	(5) a little tight, but there was enough space overall 
+	(6) There is plenty of space in the node for two crewmembers 
+	(6) Plenty of room 
+	(6) easily enough room 
+	(6) Enough space for all 4 participants 
+	(6) not a problem, especially with node supplies removed. 
+	(6, ASTRONAUT) Maybe too much volume 
+	(5) seems to take long for untrained members 
+	(6) plenty of room 
+Rate the acceptability of the amount of volume available for 2 crewmembers to doff (take off) the EVA suits. (EV)	
+	(6) more than enough space for each crew member 
+	(5) Good amount. 
+	(6) Sufficient space 
+	(5) See above 
+	(6) many enough space 
+	(5) it was only a problem when we were like tripping and running into each other but that will probably be fine in zero-gravity 
+	(6) Plenty of room 
+	(6) easily enough room 
+	(5) Good, but could use a couple bars to hold on to while donning or doffing 
+	(6) not a problem 
+	(6, ASTRONAUT) Maybe too much volume 
+	(4) Just right 
+	(6) there was enough room 
+Rate the acceptability of having 2 IV helpers, per 2 EVA crewmembers. (IV)	
+	(6) no problems 
+	(6) More than 2 would be difficult and less than two would be slow 
+	(5) One probably would have been good enough 
+	(6) One is fine 
+	(6) nice to have 1 helper per person 
+	(6) Made changing into EVA suits go very quickly 
+	(6) more might make it more crewmembers 
+	(6) Don't need more than that 
+	(6) More people would have gotten in the way 
+	(6) worked well 
+	(6, ASTRONAUT) Just need 1 helper 
+	(6, ASTRONAUT) Plenty of room for two. 
+	(-999) Maybe more is needed. More space required to take off than put on. 
+	(5) Good ratio, not too crowded 
+	(6) pretty efficient. can always do 2IV to 1 EVA if there is one difficult stops. 
+	(6) Given the space, this was adequate room 
+How many total IV helpers would be ideal per EVA crewmember? (IV)	
+	(1) I think 2 per EVA astronaut would be too crowded 
+	(2) More than two would just get in the way. Less than two would be slow. 
+	(2) Makes sense. Could have dealt with 1 IV per 2 EVA crew 
+	(1) Great 
+	(1) It is fine, but more the better. 
+	(1) Did not attempt 
+	(1) 1 is often more than enough 
+	(1) any more would be too crowded 
+	(1, ASTRONAUT) One for both EVA crew members is ok. 
+	(1) it would only be necessary to have 1 helper for 2 crew members 
+	(1) Otherwise, too crowded 
+	(2) 1 works fine, 2 may be nice but probably not needed. 
+	(1) More than 1 would be crowded/a hassle 
+Rate the acceptability of the amount of volume available to help don (put on) the EVA suit. (IV)	
+	(5) A little tight, but not bad if you spread out - maybe have the suits on 2 separate stands 
+	(6) We had no trouble 
+	(5) It would be easier in space 
+	(6) Great 
+	(6) good 
+	(6) Never bumped into anyone or felt too close 
+	(6) less space was used historically, so pretty spacious? 
+	(6) Lots of great volume. Maybe too much? 
+	(5) plenty of space 
+	(2, ASTRONAUT) Too much room. Need to segment node with walls. 
+	(4) Could have had a bit more, but I think we weren't trained, so it's probably enough 
+	(5) easy, very roomy 
+Rate the acceptability of the amount of volume available to help doff (take off) the EVA suit. (IV)	
+	(5) same as above 
+	(6) seating may help 
+	(6) good 
+	(3) Needed a lot of help, but still fell 
+	(2, ASTRONAUT) too much 
+Rate the accessibility of the EVA suit. (IV)	
+	(4) put the suits on 2 separate stands, apart from one another 
+	(5) Some of the components were hard to get off the rack 
+	(5) I was too short to take the helmets from the stands 
+	(5) Center buckle on back didn't separate 
+	(5) Easily accessible 
+	(6) Seemed fine 
+	(5) easier to deal with one suit than the next 
+	(5) The rack is backed up against the wall which makes getting the backpacks off a little weird 
+	(5) out of the way until you need it 
+	(-999) no steps in procedure to disconnect umbilicals. no depress switch, procedure should say to take off street shoes. might want a drop cloth on floor to keep suit cleaner. need to shoe how to get suit off stands, never told EVA crew to close faceplate before depress 
+	(4) hanger is a bit challenging, gloves should be on a shelf. 
+Rate the acceptability of the emergency egress path.	
+	(5) There were no obstructions between the emergency path and the Orion spacecraft, it would be better if the emergency panel was closer to Orion 
+	(6) Nothing in our way - the table would have been in the way if it were up 
+	(5) The path is clear and direct. There are no corners and no turning needed. 
+	(5) It is a straight shot to the Orion. 
+	(5) Was big enough for everyone to quickly exit, but if the table is out and other things are being stowed, there may become obstacles to the exit. 
+	(4) I think it would be better if the emergency station was closer to the Orion escape hatch 
+	(5) We had to move single file. Not ideal, but seems like only option 
+	(6) Though the path was narrow, it was easy to get out and close hatch 
+	(5) Easy to get to in a timely manner 
+	(6) It was very easy to follow instructions and the path to Orion was very clear 
+	(6) There were no obstructions 
+	(6) Crew members were able to move quickly 
+	(4) It seemed like there was enough space. 
+	(4) Wider space between sleeping quarters 
+	(6) The path was empty but the thing on panel is not clear 
+	(6) If the table was down would have been a bigger hassle to get around it 
+	(6) Easy 
+	(6) unobscured 
+	(6) Good and clear 
+	(5) Easy 
+	(4) exit path marking would help 
+	(6) Very easily accessible and quick 
+	(4) crew created a blockage 
+	(3) crowded around emergency panel 
+	(4) Hard to access emergency oxygen when everyone is standing there 
+	(5) it was pretty straight path to the emergency path, just closing the hatch was difficult 
+	(6) We were all able to exit the module in a single file line and there were no obstructions 
+	(6) nothing wrong with the path to Orion, what is it like past the hatchway? 
+	(6) It was a fairly smooth egress 
+	(6) not enough room in Orion, straight path, if crew member were aware of emergency procedure can file out easily 
+	(5) Easy and unobstructed path. Nothing to climb over or anything hazardous. 
+	(6) There is a clear path from the command center to the Orion capsule. Astronauts should always make sure that nothing is left in the way 
+	(6) assuming the path is clear (no tables or bulky stowing things) 
+	(6) I don't see how anything could really get in the way except for the table possibly for quick oxygen mask grabbing. 
+	(5) A bit long 
+	(6) Acceptable. Clear path if hatch is open 
+	(6) It was pretty clear 
+	(4) The instructions on the wall could have been more clear 
+	(6) the path is clear and open, unless the table is up, and generally easy to exit 
+	(5) Door could only fit 2-3 people (standing) 
+	(5) The cue card font should be bigger in case one forgets the procedure and needs to read it fast 
+	(6) there was only one path where everyone moved in an orderly fashion 
+	(4) Nice linear exit to hab. Issue is getting around habitat on outside, but obviously wouldn't be a problem in real scenario. 
+	(6) there is only one hallway and it leads to the ORION 
+	(6) very easy to access, nothing blocking the way 
+	(5) It was pretty straight forward. 
+	(5) It was clear and e were able to funnel through 
+	(6) Path was ok, difficult to open hatch with 2 hands while holding O2 bottle (and close) 
+	(6, ASTRONAUT) No real obstacles 
+	(6) very accessible once steps had been followed 
+	(6) it was straight and easy to get out 
+	(6) Path was open and accessible 
+	(5) Easy and straightforward path, nothing obstructing the way 
+	(6) Enough width to exit one by one. 
+	(6) need actual cue card with Velcro, cue card wrong and lost time looking for master power switch, need lanyard for O2 bottle, good alarm sound, cue cards said evacuate if > .86 and it was .86, make clearer. 
+	(5) assuming it has a door that properly closes/you know how. will run far faster once all crew members have tried it. 
+	(6) Clear path, easy to navigate so long as table is down 
+	(6) straight paths are good, keep it orderly. 
+	(5) Pretty straight forward for a trained crew. 
+	(6) straight shot 
+With training, could the 4-person crew successfully and safely egress to the Orion capsule in one minute?	
+	(-888) Depends on what the crew is doing at the moment the emergency occurs. 
+	(y) The emergency cue card said "if < 0.85 mmHg, then..." and "if > 0.85 mmHg, then evacuate," but you still needed to turn off the "main power" (which was labeled daytime power). Also, this decision should be a flowchart. 
+	(y) As I said, it should be easy to egress. 
+	(y) If you know what to do, there should be no issue. 
+	(y) The only thing that slowed our crew down was that we were unsure of whether or not we completed everything before exiting. With training, all 4 people could exit within a minute. 
+	(n) If the emergency station was closer to side "1" everything would flow better and the crew would escape faster 
+	(y) We struggled with the masks and the procedure, with practice, could be done easily 
+	(y) Assuming crew is calm and has practiced the scenario 
+	(y) The most trouble we had was putting on the oxygen masks, but with training it would be easy 
+	(y) With pretty much no training and even a technical difficulty, we were able to exit in just about 1 minute 
+	(y) If we would have known the precise procedure before it would have taken less time. 
+	(y) Most of the time was spent reading procedures. Actual egress was quick 
+	(y) With training, they could definitely do it. It was hard to read the cue card and actually figure out what was going on, because all of the scenarios looked similar. A bigger card or a designated procedure sheet might be helpful. 
+	(n) It takes time to get out so I think it's feasible under 2 minutes 
+	(y) With training if those procedures are the only ones to go through egress could be in less than a minute 
+	(y) Would depend on location. We had no idea what we were doing + didn't know exactly where to look on the monitor 
+	(y) Better mask/ better training would expedite the process 
+	(y) With training, egress would be easier 
+	(y) Easily with some leadership 
+	(y) With training, it would go much faster 
+	(y) with training an knowledge 
+	(y) As students, first time we got 1:25.55, so with training it would be feasible 
+	(y) with training and better procedures, yes. If you egress to Orion make the notification panel near Orion. Identify problem, move to Orion, no tiny notecard for procedure. 
+	(y) we did not know what to do if we had a little training it would have been smoother 
+	(n) Took a long time to put on oxygen mask 
+	(y) it would take them shorter, what slowed us down was mostly not being familiar with the procedure 
+	(y) We were able to complete an emergency procedure in 1:27 that we knew nothing about. I'm sure a trained astronaut could figure it out better than I 
+	(y) shorter, what slowed us down was mostly not ??? with the procedure 
+	(y) there was definite confusion for the procedure but including the oxygen masks should not take to much longer if its second native from training 
+	(y) We were only 13 seconds off and we definitely could have gotten the masks on faster. 
+	(y) emergency would be one of my priorities so I would know what to do better 
+	(y) Out time was 40 seconds over 1 minute and we had to read instructions and figure out what to do. I think a trained crew could easily make it under 1 minute. 
+	(y) With training, each crew member would know the procedures without needing to need the cards 
+	(y) definitely 
+	(y) With proper training and preparations, this could happen even faster. 
+	(y) Most of the delay was reading emergency procedures never seen before. Emergency checklist could have been more readable to speed things up 
+	(y) Yes, but highly dependent on ability to quickly diagnose problem 
+	(y) It took the time that it did with us because we were untrained 
+	(y) with practice <60 seconds is easily attainable 
+	(y) The crew would not have to read the procedure closely, and would know what to do, and how to do it efficiently, moreover, the overall process was pretty simple. 
+	(y) It is definitely possible, it would be easy I think (less than 1 minutes) 
+	(y) The procedures are clear and easy 
+	(y) If each crew was trained to react a specific was with each scenario, then it will decrease egress time. 
+	(y) If people practiced putting on O2 masks and identifying issues in the right order, 1 minute could be feasible. Would need to practice identifying issues/need to exit quickly. 
+	(y) The only thing that took any time was reading the emergency instructions. 
+	(y) not a problem. it took us almost 2 because of lack of training and hardware malfunction, but with training it would be no problem. 
+	(y) With training yes it would be no problem. 
+	(y) With more familiarity and training it would have been easy to get out in under 1 minute 
+	(y) yes, with improved checklist and training. 
+	(y, ASTRONAUT) yes, but after determining the need to egress 
+	(y, ASTRONAUT) Realistic alarm. Oxygen mask straps are pretty tight. 
+	(y) we hadn't fully read the procedure, but with a little prep time, 1 min would be easy 
+	(y) yes, we were confused with the instructions and trying to figure out source of leak, etc. with training, it will be cut down 
+	(y) We struggled to identify our following tasks on the card, making us waste time. 
+	(y) Since this was a first time, it was a little confusing. With training, getting out in less than a minute would be possible. 
+	(y) with training , yes 
+	(y) It took us a while to understand the emergency check list. 
+	(y) but, turning the limbo corner slows you down 
+	(y) pretty easy once its been practiced multiple times. 
+	(y) We could cut 80 seconds if I knew exactly the dp/dt rate that was acceptable. 
+	(y) With training, most of our time was reading the checklist and figuring out what to do. 
+	(y) With really good training. As a test group we had too many issues with understanding instructions and going through them. 
+	(y) given the task we had to do evacuate, had we known better ahead of time I think we could have successfully egressed in one minute 
+	(y) with knowledge of procedures this would be easy 
+Overall, rate the acceptability of the habitat layout.	
+	(5) Good but not perfect; better placement of table might be beneficial along with changes to crew quarters to make them more private 
+	(5) Table slightly blocked by science bench. Node/habitat hatch a little small. 
+	(5) I think there's room for 2 crew of 4 to move reasonably. 
+	(5) Great 
+	(5) Every place overall had enough room to work, especially when microgravity will be in effect. 
+	(5) Pretty good layout, node is very large though, maybe move storage from habitat to node 
+	(5) A little cramped as would be expected 
+	(5) Space constrained. No windows. Fewer wires. 
+	(5) It was all acceptable, but storage being on the other side of the node could be convenient 
+	(6) The layout is very efficient, the only downfall is the location of the bathroom with respect to the storage 
+	(4) nice to have one central dining area. Lots of unused volume behind living quarters. Lots of privacy provided 
+	(4) Command center and kitchen space are difficult to congregate in 
+	(4) I think there could be some changes in layout to more efficiently use some of the space, especially for the node. 
+	(5) Some small changes could be made 
+	(5) Space is small for 4 people although it seems to have everything you need 
+	(6) Overall was able to accomplish all tasks. The table out of the way when extended 
+	(4) Sleeping quarters, science workstation, maintenance area, and communication were nicely laid out, but the other area need improvement 
+	(5) Good, except for heating oven 
+	(5) Seems fine 
+	(5) For such a small space, everything seems to fit. Easy to move around. 
+	(5) Overall it was very streamlined, but the food consumption part was a little crowded (people getting in each others way) 
+	(4) Everything had an acceptable layout except the food table, heater and rehydrator 
+	(4) good neads more thought refinement of layout 
+	(5) enough space for everything 
+	(5) Overall good 
+	(5) overall i felt like i had enough space, just the close quarters with 3 people for 60 days might be hard 
+	(6) Very well-organized. My only issue with the habitat is the table, which really crowds the space 
+	(6) enough space, close quarters with 3 people for 60 days might be hard 
+	(6) everything space out well, no problems running into eachother. took into account the micro-g as well, which would create even more ease. all atations were easy to access and find as well 
+	(4) to have privacy in the node means blocking off pcm so you cant get supplies easily 
+	(5) Roomier than expected. Only problem was when we were all getting food. 
+	(5) Everything worked really well except for the food preparation heaters being right above the table 
+	(5) it seems quite crowded, but for a 60 day mission this seems totally fine. 
+	(5) Sleeping quarters and meal prep station biggest challenges 
+	(4) Few tweeks that need to be made as outlined in previous sections 
+	(5) Theres a few area were space is limited and could be adjusted (table and exiting living spaces) but overall, its pretty well done. 
+	(5) Eating was a little crowded, everything else was completely acceptable. 
+	(5) Really good, I should be fine for 60 days in it 
+	(5) there was enough room, except the suit rack was complex 
+	(5) Small, but fairly good layout 
+	(6) There is only one hallways and no turns so everything can be seen from everywhere 
+	(6) Enough space for 4 people to move around even when conducting activities. 
+	(5) very nice 
+	(6) There is nothing wrong with it. 
+	(4, ASTRONAUT) Need to spread out sleep stations, spread out food prep, and add a divider for the node 
+	(4, ASTRONAUT) Put stowage between sleep stations. 
+	(6) only difficulty was with the table, may be better to have no table in space 
+	(5) the habitat overall is acceptable to live and work in. major crowding issues were around food time when everyone was trying to access items and panels around table 
+	(6) Spacious, easy access 
+	(5) Pretty good, eating was a little congested, but all other activities were fine 
+	(4) would be better to have sleep spread out and science away from food 
+	(4) I would like seperated personal areas and more pop out tables instead of fold up. 
+	(5) If the hallway in the sleeping station area were a tad wider, this would be a 6 
+	(5) It was good, seemed like the crew quarters were a little tight 
+	(5) I would consider moving walls in habitat area. 
+	(5) fairly spacious minor things like the location of the table when it was out made it harder to manuever, crowded eating area 
+	(5) easy to navigate 
+Overall, rate the acceptability of the volume of the entire space habitat for a crew of 4 for 60 days.	
+	(5) Enough space but some windows would be nice 
+	(5) It's small, but usable and anyone in there would knew what they were signing up for 
+	(5) No problem with sleeping in a small room, with all the crew clustered together. For me, it's like sleeping in a tent. However, some people might have concerns regarding privacy. 
+	(4) Small but enough 
+	(5) Overall there was enough space for 4 people. One more person would have made the space too crowded. 
+	(6) I think this area is big enough for an entire crew, as long as the node is used more properly (for example, adding storage to roof of node) 
+	(4) 60 days is a long time. More room could make a huge difference 
+	(4) It seems very small for 60 days 
+	(5) For 60 days it may be slightly cramped, but doable. 
+	(4) Crew quarters could be collapsible to have more space during daytime 
+	(6) The node mitigates any claustrophobia 
+	(4) It would probably be pushing it at 60 days. A bit more space would help, especially since the habitat would be pretty packed with 60 days worth of equipment. 
+	(5) Hallway between living quarters could be wider 
+	(4) for 2 hours is not so bad, for 60 days it may get fairly cramped 
+	(5) Fine but might get claustrophobic after a while 
+	(4) Seemed like there was enough space, but hard to tell for 60 days 
+	(6) Small, but enough space 
+	(5) Should be okay 
+	(5) Enough room for 4 people 
+	(4) See above. Good space everywhere but the food area 
+	(4) good feels cramped 
+	(4) could get a bit tiring for that long 
+	(4) Would start to feel small after 3 months 
+	(4) the living quarters were a little close as far as privacy 
+	(6) I wouldn't mind living there for 60 days. I think there was enough room for doing everything that I had to do 
+	(6) doesn't feel overwhelmingly small 
+	(5) after mini-scenarios hard to decide what to do, what things would keep astronauts interested 
+	(6) There is enough room. There is different areas so crew members don't have to be around each other all the time. 
+	(5) If the sleeping quarters were split up, say 2 by Orion and 2 by the node, then I think the space would work better for a 60 day mission 
+	(5) Even though I would be looking forward to going back after 60 days, it is habitable 
+	(4) Tight. One more module or more width on the node would help 
+	(5) A bit pressed for space 
+	(4) Could get tight. The EVA room was nice and big, everything else maybe packed. 
+	(5) overall volume felt fine, but that opinion could change after 60 days 
+	(4) Especially because of my height, I would get pretty cramped and probably go a little mental 
+	(5) I think it would be tolerable and mostly comfortable. 
+	(5) Except for the low doors and the high cabinets, it's great 
+	(6) there is enough space to perform duties and live comfortable 
+	(3) Could just become very claustrophobic after a few weeks, but that's just me 
+	(6) There was plenty of room on Earth, so in space even more area could be used. 
+	(5) for 60 days it might be too small however for shorter time period it is perfectly acceptable. 
+	(4) would be small but would work 
+	(5) All it needs is a plant somewhere and its just like home 
+	(6) this should provide enough space, privacy to and ease of work 
+	(5) Acceptable, but would feel cramped after 60 days 
+	(5) With the table the habitat feels a bit cramped. 
+	(5) its tight but I'm not sure realistically how much bigger it could be. 
+	(4) This would get cramped, but would be acceptable 
+	(5) It was good, seemed like the crew quarters were a little tight 
+	(5) The volume is ok and a crew of four wouldn't have main issues. The part of the habitat where personal items of crew member 3 and crew member 4 looks like it is not used well enough. That is, probably there is a room for something else in addition. 
+	(5) just enough room! ok! crowded eating area but it does suffice 
+	(5) Habitat is a bit small if you don't want to be near others, node had plenty of room 
+Overall, rate the acceptability of the volume for the node.	
+	(6) More than enough space for all activities 
+	(6) This was plenty large for everything we had to do 
+	(5) There's enough room for exercising, EVA-related activities, and cleaning. 
+	(5) Plenty 
+	(5) With microgravity effect, there is a reasonable amount of room for crewmembers. 
+	(6) Plenty of space for its use 
+	(6) The node has plenty of space 
+	(5) Very acceptable for EVA and exercise use 
+	(4) The node is big and has a lot of potential and unused space. would be nice to make it more usable. 
+	(6) There is so much volume in the node, using that for storage would probably help a lot. 
+	(5) Slightly larger for exercise equipment 
+	(6) it is very helpful to have the node always will be open 
+	(6) Plenty of room 
+	(6) Node had unused space 
+	(6) Lots of room for node 
+	(5) Enough space 
+	(5) the node was much better than the habitat 
+	(5) Small, but acceptable 
+	(6) good volume 
+	(6) a lot of space 
+	(5) Node is a nice size 
+	(6) it was completely fine 
+	(6) I rarely ran into crew members while doing my tasks, so volume is not an issue. 
+	(6) small but reasonable 60 would be pushing it 30 ok 
+	(6) plenty of room for all activities carried out there 
+	(4) The ceiling was a bit low for me. 
+	(6) good space-interesting to match to crew quarters, where does hatch get placed? middle? 
+	(6) There was lots of room for exercise and showering as well as preparing for an EVA 
+	(6) The node was very large plus it felt like a very big room. In zero-g, there would be a lot of space to work out or clean or have a private conversation via Skype 
+	(6) very nice and spacious 
+	(6) Plenty of room 
+	(6) Lots of room 
+	(6) Easily enough space in the node for all activities performed 
+	(6) More than enough space, consider two stories 
+	(6) extremely spacious 
+	(5) It was hard to get out of the astronaut suit 
+	(6) There is plenty of room to perform daily tasks 
+	(5) Pretty easy for multiple people to move in and out 
+	(6) PLENTY of room, very comfortable. 
+	(6) feels nice and open 
+	(6) In zero g, it would be very open and accessible 
+	(-888, ASTRONAUT) Too much volume 
+	(5) when carrying out independent tasks there was enough space 
+	(6) very big 
+	(6) There was enough room for exercise equipment and enough room for all four crew members. 
+	(5) roomy but could be deeper (like wall from habitat to node storage) 
+	(6) Huge! Lots of room -> Any way to utilize better? 
+	(6) Does not seem to be larger if equipment is the same size 
+	(6) The node is roomy, maybe even too much. 
+	(5) location of IRED was blocking PCM slightly 
+	(6) large and spacious 
+Overall, rate the acceptability of the volume for the hab.	
+	(5) Some common leisure space could be beneficial 
+	(5) ceiling a little low for a 6'2" astronaut, especially in microgravity 
+	(5) Plenty 
+	(4) The habitat seems to be where most of the day is spent, so it could be a little larger. 
+	(5) the habitat is definitely a tight space, but also large enough to be efficient 
+	(4) External storage may be better 
+	(5) The habitat could be a bit larger to account for everyone working at once 
+	(6) I think the habitat was just the right size 
+	(4) Dining area is tight if four people are present 
+	(4) The habitable volume was good but did get a bit cramped at mealtime and in the morning. 
+	(5) Head practically at ceiling 
+	(5) Would probably feel cramped after awhile 
+	(6) The habitat has enough space but was too crowded when everyone was eating 
+	(5) Easy to move around without too much trouble 
+	(5) Small, but acceptable 
+	(4) feels cramped for 4 people 
+	(4) a little cramped around sleeping quarters 
+	(4) Habitat is more cramped 
+	(6) See above 
+	(6) enough room to flail, while removing closes/exercising 
+	(5) plenty of room to move around, perhaps slightly taller to account for micro-g 
+	(4) If I were in microgravity, I think I would be hitting my head a lot. 
+	(5) a little bit tight, do not have space if other people are working 
+	(5) Good room except layout for eating 
+	(6) I felt that the space of the habitat would be fine for a 60 day mission. There was plenty of space for work 
+	(4) It is very small but reasonable for 60 days 
+	(4) Tight with 4 crewmembers there 
+	(4) 4 is tight, especially for 8 hour workday 
+	(5) volume overall was good, certain areas could be arranged as previously mentioned. 
+	(4) With the table up and everyone in there, it felt pretty cramped, and the ceiling was short at my height. Otherwise good 
+	(5) eating was a little crowded 
+	(5) Small, but is enough space to perform task. 60 days in this small space with 4 people may seem cramped for a work space. 
+	(4) Everything good except table 
+	(5) a little tight 
+	(4) a little compact 
+	(5) Very nice, always able to access volume 
+	(-888, ASTRONAUT) Too small 
+	(5) there was space for independent tasks, like cramped for food times 
+	(5) could be tight for 60 days 
+	(4) without seeing tunnel, toilet, etc. hard to tell. probably enough but three will be a lot more "stuff" that need stowed and will take up volume 
+	(4) very tight, would be nice to have a separate eating area. 
+	(6) Good amount of work space for a good number of days, for a longer duration mission, This would be fine for 2 crew members 
+	(5) Crew quarters are a little tight 
+	(5) Completely acceptable. (Maybe I would consider smaller table.) 
+	(5) exactly enough space for 4 people - no more, no less. sufficient 
+	(4) fine for mobility but small for 60 days 
+Rate the acceptability of the volume of public spaces in the entire space habitat.	
+Rate the acceptability of the amount of private spaces in the entire space habitat.	
+Is there any place where there was more volume than needed?	
+	(y) the node could be smaller 
+	(y) The node - though I imagine that in reality, more tasks would happen here (bring in hardware from EVA, etc.) 
+	(y) Some storage units were bigger than was needed. 
+	(y) The node (Use the roof for more storage) 
+	(y) The washroom had more than enough 
+	(y) The node seemed a bit more spacious than necessary 
+	(n) Volume seemed just fine 
+	(y) Yes, in the node 
+	(y) Node, Hygiene areas, Co2 removal station 
+	(y) The node seemed empty compared to the rest of the hab. 
+	(n) The node seemed larger than what we used it for, given that in 0G we could use the ceiling as well. 
+	(n) The node seemed much taller than needed 
+	(y) Not sure how the blank walls would be used 
+	(n) Node 
+	(y) "Shower" area 
+	(y) Move volume for privacy for personal hygiene 
+	(y) food warmer, water rehydration system the was fine but need more configuration 
+	(y) in the node 
+	(y) in the node 
+	(y) there might have not needed to be quite as much volume in the lab area 
+	(y) There was more volume than necessary in the node. Although I'm sure actual equipment would leave more room, there is still a lot of room, even for putting on suits, there was so much room. 
+	(y) the node is very volumes 
+	(y) node-may be a bit large, hard to utilize 
+	(n) none 
+	(y) Maybe in the node. Other than that, no 
+	(y) The EVA node seemed unnecessarily large, with the same resources, I would allocate that space to the habitable environment/living area. 
+	(y) Node had unused space 
+	(n) Node was good 
+	(y) Node was 'huge' but I could see looking forward to being in there 
+	(y) Wash area, science station, exercise station 
+	(y) The node and personal storage next to the sleeping quarters 
+	(y) the node was extremely spacious but for exercising the air space is needed. 
+	(y) Science did not need as much table space 
+	(y) The node definitely seems larger than needed 
+	(y) The EVA/Node was pretty large. A lot of space above seemed like wasted space. 
+	(y) In the node and toward the back of the habitat by the Orion vehicle 
+	(y, ASTRONAUT) Node, and it should be broken up somehow 
+	(y, ASTRONAUT) Need more private hygiene area. Could make contained off private area in node. Plenty of space above our heads. 
+	(n) no, the excess volume outside of the node would be nice to stretch out in 
+	(y) Science area 
+	(y) Node 
+	(y) probably need a place where can do group video conference 
+	(y) The LiOH tube change was maybe too roomy 
+	(y) The node 
+	(y) Overall living space 
+	(y) The node 
+	(y) personal storage 
+Is there any place where more volume is needed?	
+	(y) crew spaces could be a bit larger 
+	(y) perhaps a little more headroom in the sleeping area 
+	(y) Private Space 
+	(y) Habitat needs more space for how much time is spent in the area. 
+	(y) private quarters, passage to escape hatch 
+	(y) Private spaces 
+	(y) There could be a little more volume in the habitat to allow for more comfort, but it isn't necessary 
+	(n) Perhaps height in the sleep quarters, other than that, no 
+	(y) Yes, at the table 
+	(y) Sleep stations, eating areas 
+	(y) More volume in the crew area would be nice, especially for a long term mission 
+	(y) Hallway between sleeping quarters, more room for exercise equipment 
+	(y) Yes I think the crew head quarters would be, also I really like to see some windows 
+	(y) Just possibly spreading the crew quarters out a little 
+	(y) Bedrooms might seem uncomfortably small after many nights 
+	(y) More room around galley, or reorganize it 
+	(n) Around the table, but could be mitigated by a change in schedule 
+	(y) Sleeping hole 
+	(y) More volume needed in the eating area 
+	(y) Food area (table, rehydration system, oven) 
+	(y) in the habitat 
+	(y) More volume in dining and sleeping area 
+	(y) it was a little cramped at the table 
+	(y) More volume could be used around the table. The only time I ever ran into people was when the table was down. That's the only time it was ever too crowded. 
+	(y) private space to Skype friend and family 
+	(y) slightly more vertical volume in the habitat 
+	(y) I would just add more headroom. 
+	(y) need more public space-stretch out habitat more so easier to pass people 
+	(n) none 
+	(y) There isn't any place that needs more volume 
+	(y) The entire living area doesn't seem like there is a lot of room for other activities other than science. I would love to see windows. 
+	(y) More space in personal quarters to separate hygiene items from electronics 
+	(y) Yes, the habitat 
+	(y) In general work area where science was carried out 
+	(y) Kitchen was tight and required a lot of jostling and apologizing 
+	(y) table, kitchen area, rear storage area/walkway 
+	(y) personal quarters and main eating area 
+	(y) the eating was crowded (i.e. having to ask for people to move in order to access water). 
+	(y) Maybe the node and the habitat table for eating 
+	(y) The dining table area 
+	(y) Kitchen table area, individual sleeping cells 
+	(y) Sleeping quarters were a bit small 
+	(y) food area and private space 
+	(y) Volume could be taken from the PCM and put into sleeping spaces 
+	(n, ASTRONAUT) Volumes are ok. 
+	(y) food preparation area 
+	(y) around table and food heaters 
+	(y) when the table is up, one person is eating, one is at the main computer, and one is trying to walk the table, there isn't enough space 
+	(y) Galley and eating were cramped 
+	(y) Main area, table takes up a lot of space. 
+	(y) science area likely and stowage 
+	(y) personal space, table/eating. 
+	(y) The hallway 
+	(y) Crew quarters and hallways 
+	(y) table/eating area 
+	(y) central habitat near table/science areas 
+Would you change the layout or arrangement of locations?	
+	(y) add places to crew quarters to hang personal items 
+	(y) My storage space was near the science bench, so the storage area on the opposite side of the sleeping quarters seemed useless to me - no reason for me to go over there 
+	(n) It is all good layout 
+	(y) Only layout I would change would be arrangement of sleeping quarters to have more privacy. 
+	(y) Put emergency station closer to the sleeping area (for example, on the roof if the habitat between LiOH and the science station) 
+	(y) Put the access to the Dream Chaser directly above the habitat 
+	(y) Yes. I would try to move the storage to somewhere accessible at all times 
+	(y) I would like to move the location of the storage and bath area, because if something is needed from storage while bathing is taking place, you can't get to it. 
+	(y) Collapsible crew quarters, table more centered, use space between crew quarters and Orion 
+	(y) The eating table should be oriented along the axis rather than into the hall 
+	(y) I would put the food by the galley. And maybe have two food warmers in each side of the table. 
+	(y) move oven across room 
+	(y) Would place the over on a different surface than the table 
+	(y) Have sliding door for utensil cabinet, and have separate bathing area 
+	(y) Move oven and rehydration near the food storage to make more room around the table 
+	(y) Change location of the oven and the rehydration system. Move it to the left side of the table. 
+	(y) just the food warmer and water 
+	(y) I would move crew quarters farther back and move personal storage up. Other than that, layout was good. 
+	(y) yes in the back - kitchen sconce in the front 
+	(y) a separate place the lab 
+	(y) Change layout of eating area 
+	(y) maybe use the personal cabinets to separate some of the rooms 
+	(y) I would change the shower location to not be where the storage area is or somewhere not in the node because if someone is showering no-one can use the node 
+	(y) having the sconce experiment in cargo by seemed odd 
+	(n) no, everything was comfortably easy to access, all locations fit together well. 
+	(y) having the pcm blocked off by the node to give privacy may become a problem 
+	(y) yes, shift area of hydration and oven so doesn't interfere with people eating 
+	(y) Split up 2 of the sleeping quarters. Have 2 by the node and 2 by the Orion. That storage space by the Orion could be moved to make a much larger main area 
+	(y) I would change the location of the Li-OH canisters and put something of more frequent use there. 
+	(y) I would relocate the food prep to not above the table. It was annoying having to reach over everyone to reach the processors. 
+	(y) Move sleeping quarters to the aft end of module 
+	(y) Food prep might move to side or somewhere else. Maybe node? 
+	(y) Move kitchen items (food heater, water dispenser, etc.) away from end of table (maybe above CO2 canister filters or above science station?) Use this area for possible food utensil storage 
+	(y) I would push the entire space back about 6'' into the storage area, and move the table so it comes out of the floor and is bigger. 
+	(y) Eating table could be somewhere separate from the heater/water machines. 
+	(y) Maybe put the food closer to the oven and dining area. Place the personal cabinet slightly lower. 
+	(y) The private quarters will be in a checkered design with sleeping quarters and cabinets 
+	(n) Nope 
+	(y) Utensils with food, personal storage in crew sleeping compartments 
+	(y) move hygiene area to area near sleeping quarter/bathroom. move food warmer and trash to a more accessible spot. 
+	(y, ASTRONAUT) Need to spread out sleep stations, spread out food prep, and add a divider for the node 
+	(y, ASTRONAUT) yes, as previously discussed. 
+	(y) yes, the food prep would be next to food retrieval 
+	(n) Approved 
+	(y) I would move the water and over unit to right in dead center above the galley. Then, I would move trash bag and utensil area. 
+	(y) would move science away from food and not group all sleep stations 
+	(y) Just the utensils/water/oven storage. Above the table is hard to access. 
+	(y) I would consider separating the sleeping stations in groups of two with some room for hygiene between? 
+	(y) yes, as already mentioned, I would move science center closer to the science panel and the node. 
+	(y) the panel under the science table is too close to the table, someone may accidentally turn something on 
+	(y) move food next to table, move HAB-s-3-c away from table 
+Did any aspect/task feel unsafe due to the layout or volume constraints? If yes, explain.	
+	(y) unplugging the science payload power wires without switching the power off seemed like a fire hazard 
+	(y) The node item removal. 
+	(y) Just the microwave section was a hassle to get to when the table was down 
+	(y) When moving the exercise equipment, it felt unsafe to move backwards 
+	(y) Eating area was cramped, but nothing felt unsafe 
+	(y) floating in node 
+	(y) Having LiOH canisters next to food could be dangerous 
+	(n) no, nothing felt unsafe 
+	(y) The only time that felt like a task could be unsafe is transferring exercise equipment for EVA procedure because it's large and the hole is small 
+	(y) wire on the headset would seem like a hassle in zero g 
+	(y) only the doorway between the habitat and node, it was small 
+	(y) moving the exercise equipment, these are sensitive and large, take up a lot more space in the habitat for the remaining members 
+	(y) moving the exercise equipment through the hatch seems a little dangerous. But as long as they are nice, big and fit they should live. 
+	(y) Heating food by other crew members could be dangerous 
+	(y) The suit was a bit uncomfortable to put on 
+	(n) Maybe hot food jostling 
+	(n) Not in particular, possibly the table layout as previously mentioned in the event of an emergency evacuation 
+	(y) Going down the steps into the node because of small door and lip before steps 
+	(y) The location of each of the crew's cabinets ran into each of the allowed space which ??? ran into one another 
+	(y) Entering the habitat from node due to low ceiling of hatch 
+	(y) mildly, the science experiments there was a little bit of a traffic issue. 
+	(n) no it seemed safe 
+	(n) no it seemed safe 
+	(y) Tasks while table was up, not easy to move around 
+	(n) No, eating was uncomfortable though 
+Would you like any spatial dividers? How would it impact your experience?	
+	(y) No, I don't think that would be necessary 
+	(y) a divider between the shower and workout area. 
+	(y) Spatial dividers only seem necessary in sleeping quarters and the shower for privacy. 
+	(y) Maybe, between crew quarters and social area for noise reduction, when not all crewmembers are sleeping at the same time. 
+	(y) Perhaps for personal communication at command center 
+	(n) Spatial dividers would definitely make it feel more cramped and take away from the open-ness. The habitat was more open than I expected it to be. 
+	(n) I like the node, it is so large 
+	(n) any more than the curtains already in place would probably just get in the way 
+	(n) Only when the table got in the way 
+	(y) Yes for privacy 
+	(n) No, it would make feel a lot smaller 
+	(y) maybe in the hygiene area it move more privacy 
+	(n) No, it would cause the quick exit to be blocked and tasks would take more time 
+	(y) more division might be nice for the private quarters 
+	(y) Spatial dividers would make me feel like there was less volume, especially in the habitat. It would make me feel very crowded and I wouldn't like it. 
+	(y) in the node that would be good 
+	(y) possible a divider between habitat and sleeping quarters. if someone is trying to rest, it might be hard with noise from others in habitat 
+	(n) No, it would just obstruct my activities 
+	(n) no, curtains were adequate 
+	(n) n (prefer the empty space) 
+	(y) A more private curtain/divider for showering would be nice. 
+	(n) None except for what is already in place 
+	(y) Yes, in the node to isolate the hygiene station when in use 
+	(n) n, that would make it feel smaller 
+	(y) Maybe instead of the curtains, make it a door for more privacy 
+	(y) If there was marks along the floor designated for the space, then training for the task may become easier 
+	(y) Spatial dividers in sleeping quarters would be more comfortable, better privacy 
+	(y) Yes, as long as they were removable, they would provide more acceptable private space. 
+	(y) no, only for sleeping areas 
+	(y, ASTRONAUT) In node 
+	(y, ASTRONAUT) yes, in node. 
+	(y) spatial dividers would be nice for privacy, the habitat divider was nice for space 
+	(n) Nope, open space is easier 
+	(y) would like node volume subdivided-maybe a separate airlock 
+	(y) yes, just to make you feet more private. 
+	(n) No, having personal space is nice, but working as a team is great. 
+	(y) slightly for individual crew cabins nothing else 
+	(y) maybe around computer for private skyping 
+	(y) divide between sleeping quarters and rest of habitat 
+Would the presence of windows benefit any tasks you performed?	
+Would the presence of window benefit your psychological well-being?	
+Overall, rate the acceptability of the amount of storage for the items you worked with.	
+Overall, rate the acceptability of the location of storage.	
+Is there anything else you’d like to tell us about your experience? Are there any changes you would like made to the habitat?	
+	(-999) Windows, small ones in crew quarters if possible 
+	(-999) Love it! 
+	(-999) Overall, very good set up! Minor tweaks will make the habitat even better. 
+	(-999) Storage could be external if possible. Saves living space 
+	(-999) A window would be really nice. I could see myself getting pretty claustrophobic without one. 
+	(-999) It was counter intuitive that the knob for the water dispenser was counter-clockwise 
+	(-999) It was fun! Working microphones and stuff would be really cool. 
+	(-999) probably I will make it more friendly, I don't know but I think it might need more personalization. in the other hand the voice from Houston was hard to hear. 
+	(-999) Seems very suitable, for testing purposes it may help having labels on the other surfaces (floor/celling) not oriented to local gravity to help testers visualize the fact that there is no "up" in space 
+	(-999) Just not sure why the node was so tall 
+	(-999) Would like a more relaxed environment 
+	(-999) It could cramped after 60 days, but it is livable 
+	(-999) I would put the food oven and rehydration system in a different place so I'm not running into crew trying to make my food. Other than that, no changes. 
+	(-999) need to be open not too open think like you are in 0g not on the earth 
+	(-999) overall, i felt like the experience was very enjoyable and pleasant. i would definitely add windows 
+	(-999) Thanks for opportunity, enjoyed everything about the mock-up, find it very easy to maneuver 
+	(-999) Separate the private quarters a bit. 
+	(-999) Joe said speaker button should always be on. was confused with the need for headphones when all of us were at the command center 
+	(-999) none 
+	(-999) I think windows would be a great addition. 
+	(-999) It was great! Add clothes storage by the "shower" area 
+	(-999) Habitat: would like to be wider, more spread out sleeping chambers, and private communication station. Node: avoid closing the hatch 
+	(-999) Great mission control guide. Could use psychological stuff like color, or entertainment evaluation. Kitchen area! 
+	(-999) Best/most comfortable place to change clothes would be in the sleeping area, instead of the node. 
+	(-999) Great experience! 
+	(-999) Have a GAP retrieval storage nearer to science station? Overall, a very well-designed, simple layout 
+	(-999) Pretty great, not as bad as it looks at first. Habitat space might be a little small for 60 days. I more private space. other than that, good experience. 
+	(-999, ASTRONAUT) Personal stowage location change as mentioned before. 
+	(-999) windows for the view of space would be greatly appreciated 
+	(-999) windows to see EVA would be helped and safe 
+	(-999) Table area volume expansion 
+	(-999) This is a really good habitat. My biggest concern was the dining area. Other than that, everything was easy to get to. Thank you for this awesome experience! 
+	(-999) The storage locations seemed to be a little unclear at first. 
+	(-999) psychologically windows are important. also for seeing approach/departure of vehicles. always need more storage. need to show foot restraint locations and have them for every activity. label hatches. 
+	(-999) Very cool, more pop out storage and move the utensils! 
+	(-999) I think it could be worthwhile to assess the layout of the sleeping quarters and add a couple inches to the hallway. 
+	(-999) yes, windows, absolutely necessary. Isolation without recongizing the outside universe is bad for psychological health. 
+	(-999) windows -> for the view 
+	(-999) make table shorter, but wider so it is less crowded, move comms center fom across from the table 
